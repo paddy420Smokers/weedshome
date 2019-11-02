@@ -1,0 +1,42 @@
+.footer {
+  background: rgb(240, 243, 245);
+  padding: 50px 0px;
+}
+
+.footer a {
+    color: rgb(59, 156, 66);
+    font-size: 20px;
+    font-weight: 500;
+    margin: 5px 0px;
+    transition: all 1s ease 0s;
+  text-decoration: none;
+}
+
+.footer--linkwrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  margin: 0px 119px;
+  gap: 20px 20px;
+}
+
+.footer--linkgroup {
+  width: 200px;
+  display: grid;
+  grid-template-rows: auto;
+  gap: 5px 5px;
+}
+
+.footer--title {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0px;
+  background: linear-gradient(104.74deg, rgb(148, 164, 186) 0%, rgb(148, 164, 186) 100%) text;
+}
+
+.container.taCenter {
+  margin: 50px auto;
+  font-size: 18px;
+  font-weight: 500;
+}

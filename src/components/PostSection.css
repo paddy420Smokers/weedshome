@@ -1,0 +1,83 @@
+.PostSection {
+}
+
+.PostSection--Grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.PostSection button {
+  margin-top: 1rem;
+  margin-top: 5rem;
+font-size: 20px;
+    -webkit-box-shadow: rgba(101,41,255,.15) 0 10px 20px;
+    box-shadow: 0 10px 20px rgba(101,41,255,.15);
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+    justify-self: center;
+    white-space: nowrap;
+    background: linear-gradient(104.74deg,#3a9843,#47e61f);
+    border-radius: 30px;
+    border: none;
+    border-color: initial;
+    -o-border-image: none;
+    border-image: none;
+    -o-border-image: initial;
+    border-image: initial;
+    padding: 16px 60px;
+    outline: none;
+    -webkit-transition: all .8s cubic-bezier(.2,.8,.2,1.2) 0s;
+    transition: all .8s cubic-bezier(.2,.8,.2,1.2) 0s;
+}
+
+.PostSection button:hover {
+  background: black;
+  border: 2px solid white;
+  color: white;
+}
+
+.PostSection--Grid > * {
+  width: calc(33.33% - 2rem);
+  margin-bottom: 4rem;
+}
+
+@supports (display: grid) {
+  .PostSection--Grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4rem;
+  }
+
+  .PostSection--Grid > * {
+    width: auto;
+    margin: 0;
+  }
+}
+
+.PostSection--Title {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 4rem auto;
+  line-height: 1.2;
+}
+
+@media screen and (max-width: 888px) {
+  .PostSection--Grid > * {
+    width: 100%;
+    max-width: 50rem;
+    margin: 0 auto 4rem;
+    display: block;
+  }
+
+  @supports (display: grid) {
+    .PostSection--Grid {
+      display: block;
+      grid-template-columns: 1;
+      grid-gap: 0;
+    }
+  }
+}
