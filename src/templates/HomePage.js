@@ -52,7 +52,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
     <div class="cardcat">
          <h3 class="tricks">News</h3>
          <img src="https://img.icons8.com/cotton/64/000000/worldwide-location--v1.png"></img>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Breaking cannabis news and current headlines</p>
              
     </div>
 </a>
@@ -62,7 +62,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
          <h3 class="tricks">Recreational</h3>
          <img src="https://img.icons8.com/cotton/64/000000/literature-1.png"></img>
   <i class="far fa-address-card"></i>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Discover new stoner activities today</p>
     </div>
 </a>
 
@@ -70,7 +70,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
      <div class="cardcat">
          <h3 class="tricks">Growing</h3>
          <img src="https://img.icons8.com/cotton/64/000000/hand-planting--v1.png"></img>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Everything related to growing cannabis</p>
     </div>
 </a>
 
@@ -78,7 +78,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
      <div class="cardcat">
        <h3 class="tricks">Trending</h3>
        <img src="https://img.icons8.com/cotton/64/000000/earth-planet--v1.png"></img>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Trends, new technologies and expert insights</p>
     </div>
 </a>
 
@@ -86,7 +86,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
    <div class="cardcat">
        <h3 class="tricks">CBD</h3>
        <img src="https://img.icons8.com/cotton/64/000000/test-tube-1.png"></img>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Discover more about Cannabidiol here</p>
     </div>
 </a>
 
@@ -94,7 +94,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
    <div class="cardcat">
        <h3 class="tricks">Health</h3>
        <img src="https://img.icons8.com/cotton/64/000000/yoga.png"></img>       
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Our cannabis related health articles</p>
     </div>
 </a>
 
@@ -102,7 +102,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
    <div class="cardcat">
        <h3 class="tricks">Products</h3>
        <img src="https://img.icons8.com/cotton/64/000000/price-tag--v1.png"></img>
-             <p class="cardcat-text">Supporting text below as a natural lead-in to.</p>
+             <p class="cardcat-text">Buyer guides for the best stoner products</p>
     </div>
 </a>
   </div>
@@ -112,7 +112,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
      />
 
 <section className="section2">
-<SectionCaption>12 sections - 6 hours</SectionCaption>
+<SectionCaption>We talk about</SectionCaption>
 <SectionCellGroup>
       {staticdata.cells.map(cell => (
         <Cell 

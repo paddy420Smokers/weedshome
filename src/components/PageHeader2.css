@@ -72,6 +72,12 @@
     max-width: 75%;
     text-align: left;
   }
+
+  @media (max-width: 600px) {
+    .PageHeader2 .container {
+    text-align: center;
+    }
+  }
   
   @media (max-width: 600px) {
     .PageHeader2 {

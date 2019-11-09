@@ -1,6 +1,9 @@
 .footer {
-  background: rgb(240, 243, 245);
   padding: 50px 0px;
+    max-width: 1111px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .footer a {
@@ -15,9 +18,18 @@
 .footer--linkwrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  justify-items: center;
   margin: 0px 119px;
   gap: 20px 20px;
+  justify-items: center;
+}
+
+@media (max-width: 600px) {
+  .footer--linkwrapper {
+    display: grid;
+    justify-items: center;
+    margin: 0px 119px;
+    gap: 20px 20px;
+  }
 }
 
 @media screen and (max-width: 750px) {
@@ -32,14 +44,23 @@
   width: 200px;
   display: grid;
   grid-template-rows: auto;
-  gap: 5px 5px;
+  text-align: left;
+  justify-content: center;
+}
+
+@media (max-width: 600px) {
+  .footer--linkgroup {
+    text-align: center;
+    padding-bottom: 25px;
+  }
 }
 
 .footer--title {
-  font-size: 24px;
-  color: black;
-  font-weight: 400;
-  margin-bottom: -1.5em;
+  font-size: 21px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0px;
+  height: 2em;
 }
 
 .container.taCenter {

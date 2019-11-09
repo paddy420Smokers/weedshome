@@ -29,7 +29,8 @@ export default () => (
 <a href="/jobs">Impressum</a>
 <a href="/jobs">Sitemap</a>
 </div>  
-</div>
+</div> 
+
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved.
