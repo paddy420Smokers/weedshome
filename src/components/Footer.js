@@ -3,7 +3,7 @@ import InstagramFeed from './InstagramFeed'
 import './Footer.css'
 
 export default () => (
-  <div>
+  <div class="ftr">
     <footer className="footer">
   <div class="footer--linkwrapper">
 <div class="footer--linkgroup">

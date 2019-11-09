@@ -1,6 +1,7 @@
 .Nav {
-  background: #eff3f5;
-  color: #272727;
+  background: #121f24;
+  color: #ffffff;
+  box-shadow: 0px 0px 5px 6px #000;
   position: sticky;
   top: 0;
   z-index: 1;
@@ -73,8 +74,8 @@
   position: absolute;
   top: calc(50% - 0.2rem);
   right: 1rem;
-  border-bottom: 2px solid var(--darkGrey);
-  border-right: 2px solid var(--darkGrey);
+  border-bottom: 2px solid #3a9c41;;
+  border-right: 2px solid #3a9c41;;
   display: block;
   height: 0.8rem;
   width: 0.8rem;
@@ -102,6 +103,7 @@
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: left;
+  background-color: #111f24;
 }
 
 .Nav--Group.active .Nav--GroupParent::after {
@@ -150,6 +152,7 @@
 
   .Nav-active .Nav--Links {
     display: flex;
+    background-color: #121f24;
   }
 
   .Nav-active .NavLink {

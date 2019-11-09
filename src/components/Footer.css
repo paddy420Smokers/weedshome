@@ -61,11 +61,18 @@
   text-transform: uppercase;
   margin: 0px;
   height: 2em;
+  color: white;
 }
 
 .container.taCenter {
   margin: 50px auto;
   font-size: 18px;
   font-weight: 500;
-  color: black;
+  color: #ffffff;
+}
+
+.ftr {
+  background-color: #121f24;
+  -webkit-box-shadow: 0px -30px 50px 0px #000000;
+  box-shadow: 0px -30px 50px 0px #000000;
 }

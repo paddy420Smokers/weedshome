@@ -23,7 +23,7 @@ const SectionCaption = styled.p`
 
 const SectionCellGroup = styled.div`
   max-width: 800px;
-  margin: 0 auto 100px;
+  margin: 0 auto 50px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 20px;

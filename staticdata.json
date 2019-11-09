@@ -1,15 +1,11 @@
 {
     "cells": [
-        {
-            "title": "Intro to Cannabis",
-            "image": "https://i.imgur.com/nknBQ0B.png"
-        },
 		{
-			"title": "Basic Growing",
+			"title": "Growing Cannabis",
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
-			"title": "How to Use It",
+			"title": "Tips & Tricks",
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
@@ -21,27 +17,15 @@
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
-			"title": "Healthcare",
-			"image": "https://i.imgur.com/nknBQ0B.png"
-		},
-		{
 			"title": "Product Reviews",
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
-			"title": "Lifestyle",
+			"title": "Strain Reviews",
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
-			"title": "Strains",
-			"image": "https://i.imgur.com/nknBQ0B.png"
-		},
-		{
-			"title": "Traveling with Weed",
-			"image": "https://i.imgur.com/nknBQ0B.png"
-		},
-		{
-			"title": "Best Dosage",
+			"title": "Stoner Activities",
 			"image": "https://i.imgur.com/nknBQ0B.png"
 		},
 		{
