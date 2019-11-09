@@ -43,6 +43,12 @@
   text-align: center;
 }
 
+@media (max-width: 600px) {
+  .SinglePost--Meta {
+    font-size: 1.3rem;
+  }
+}
+
 .SinglePost--Meta > * + * {
   margin-left: 0.75em;
   color: #3ca340;
@@ -52,6 +58,12 @@
   text-align: center;
   line-height: 1.2;
   font-size: 2em;
+}
+
+@media (max-width: 600px) {
+  .SinglePost--Title {
+    font-size: 1.7em;
+  }
 }
 
 .SinglePost--InnerContent {
@@ -88,7 +100,7 @@
   .SinglePost--Pagination--Link {
     font-size: 0.8rem;
     font-weight: bold;
-    padding: 16px 50px;
+    padding: 15px 20px;
   }
 }
 
@@ -98,6 +110,14 @@
   background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
   padding: 16px 60px;
   border-radius: 30px;
+}
+
+@media (max-width: 600px) {
+  .SinglePost--Pagination--Link.next {
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 15px 35px;
+  }
 }
 
 .icon-bar {

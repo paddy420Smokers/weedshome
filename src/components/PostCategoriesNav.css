@@ -10,6 +10,12 @@
   margin-left: 1rem;
 }
 
+@media (max-width: 600px) {
+  .PostCategoriesNav > * + * {
+    margin: 0 auto;
+  }
+}
+
 .PostCategoriesNav input[type='text'] {
   right: 0;
   position: absolute;
