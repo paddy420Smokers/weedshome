@@ -16,12 +16,23 @@
     font-size: 6rem;
     margin-bottom: 0;
   }
+
+  @media (max-width: 600px) {
+    .PageHeader2--Title {
+    font-size: 4.5rem;
+    }
+  }
   
   .PageHeader2--Subtitle {
       font-size: 24px;
       font-weight: 400;
       margin: 0px;
-      background: linear-gradient(104.74deg, rgb(240, 243, 245) 0%, rgb(240, 243, 245) 100%) text;
+  }
+
+  @media (max-width: 600px) {
+    .PageHeader2--Subtitle {
+    font-size: 18px;
+    }
   }
   
   .PageHeader2--Button {
@@ -42,6 +53,12 @@
       padding: 16px 60px;
       outline: none;
       transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
+  }
+
+  @media (max-width: 600px) {
+    .PageHeader2--Button {
+    font-size: 12px;
+    }
   }
   
   .PageHeader2 .container {

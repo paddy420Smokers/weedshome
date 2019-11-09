@@ -269,10 +269,24 @@ blockquote {
     -webkit-text-fill-color: transparent;
 }
 
+@media (max-width: 600px) {
+  .H2Subtitle {
+    font-size: 1em;
+  }
+}
+
+
+
 .H4Subtitle {
     background: -webkit-linear-gradient(104.74deg, #3a9843, #47e61f);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 600px) {
+  .H4Subtitle {
+    font-size: 19px;
+  }
 }
 
 .rows{
@@ -375,6 +389,21 @@ blockquote {
   background-size: 60%;
   background-position: center center; 
   background-repeat: no-repeat;
+}
+
+@media (max-width: 600px) {
+  .icon {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+    border-radius: 50%;
+      
+    background-size: 60%;
+    background-position: center center; 
+    background-repeat: no-repeat;
+  }
 }
 
 .icon:hover {
