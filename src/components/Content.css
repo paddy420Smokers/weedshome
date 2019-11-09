@@ -14,7 +14,7 @@
 
 @media (max-width: 600px) {
   .Content--Image, .Content img {
-    height: 270px;
+    height: 200px;
   }
 }
 

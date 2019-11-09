@@ -80,7 +80,7 @@ export const SinglePostTemplate = ({
           <ChevronLeft /> BACK
       </Link>
 
-      <div class="fb-like" data-href="https://weedshome.com" data-width="" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+      <div class="fb-like" data-href="https://www.weedshome.com" data-width="1000" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 
       </div>
       </div>
@@ -142,8 +142,8 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
-          <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5" colorscheme="light"></div>
-          </div>
+           <div data-mantis-zone="weedhack"></div>
+           <div class="fb-comments" data-href="https://facebook.com/WeedsHome" data-width="" data-numposts="5"></div>          </div>
       </div>
     </article>
   </main>

@@ -82,8 +82,8 @@
 
 .Nav--GroupLinks {
   position: absolute;
-  top: 100%;
   left: 0;
+  padding-bottom: 10px;
   width: auto;
   background: white;
   /* opacity: 0; */
