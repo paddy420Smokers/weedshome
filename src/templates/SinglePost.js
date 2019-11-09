@@ -142,7 +142,6 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
-           <div data-mantis-zone="weedhack"></div>
            <div class="fb-comments" data-href="https://facebook.com/WeedsHome" data-width="" data-numposts="5"></div>          </div>
       </div>
     </article>
