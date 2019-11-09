@@ -22,15 +22,19 @@ export default () => (
 <a href="/post-categories/products/">Products</a>
 </div>
 <div class="footer--linkgroup">
-<div class="footer--title" color="#94A4BA"><p>Information</p></div>
-<a href="/">Help</a>
-<a href="/design-system">Team</a>
-<a href="/?modal=buyLicenses">Privacy</a>
-<a href="/jobs">Impressum</a>
-<a href="/jobs">Sitemap</a>
-</div>  
+<div class="footer--title" color="#94A4BA"><p>Help</p></div>
+<a href="/post-categories/news/">Terms</a>
+<a href="/post-categories/growing/">Privacy</a>
+<a href="/post-categories/cbd/">Impressum</a>
+<a href="/post-categories/health/">Advertise</a>
+<a href="/post-categories/health/">Sitemap</a>
+</div>
+<div class="footer--linkgroup">
+<div class="footer--title" color="#94A4BA"><p class="doba">Information</p></div>
+<img class="footer--img" src="/images/logo2.png"></img>
+<p class="doba">Weed's Home Is Where The Weed Is At! Feel free to contact us via E-Mail.</p>
 </div> 
-
+</div> 
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved.

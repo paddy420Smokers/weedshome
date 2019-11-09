@@ -1,9 +1,10 @@
 .footer {
-  padding: 50px 0px;
     max-width: 1111px;
     width: 90%;
     margin: 0 auto;
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 5px;
 }
 
 .footer a {
@@ -17,8 +18,8 @@
 
 .footer--linkwrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  margin: 0px 119px;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 0px auto;
   gap: 20px 20px;
   justify-items: center;
 }
@@ -46,6 +47,7 @@
   grid-template-rows: auto;
   text-align: left;
   justify-content: center;
+  color: white;
 }
 
 @media (max-width: 600px) {
@@ -75,4 +77,14 @@
   background-color: #121f24;
   -webkit-box-shadow: 0px -30px 50px 0px #000000;
   box-shadow: 0px -30px 50px 0px #000000;
+}
+
+.footer--img {
+  height: 100px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+p.doba {
+  text-align: center;
 }
