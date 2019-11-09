@@ -4,6 +4,55 @@ import _format from 'date-fns/format'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
+import {
+  FacebookShareCount,
+  PinterestShareCount,
+  VKShareCount,
+  OKShareCount,
+  RedditShareCount,
+  TumblrShareCount,
+
+  FacebookShareButton,
+  LinkedinShareButton,
+  TwitterShareButton,
+  PinterestShareButton,
+  VKShareButton,
+  OKShareButton,
+  TelegramShareButton,
+  WhatsappShareButton,
+  RedditShareButton,
+  EmailShareButton,
+  TumblrShareButton,
+  LivejournalShareButton,
+  MailruShareButton,
+  ViberShareButton,
+  WorkplaceShareButton,
+  LineShareButton,
+  WeiboShareButton,
+  PocketShareButton,
+  InstapaperShareButton,
+
+  FacebookIcon,
+  TwitterIcon,
+  LinkedinIcon,
+  PinterestIcon,
+  VKIcon,
+  OKIcon,
+  TelegramIcon,
+  WhatsappIcon,
+  RedditIcon,
+  TumblrIcon,
+  MailruIcon,
+  EmailIcon,
+  LivejournalIcon,
+  ViberIcon,
+  WorkplaceIcon,
+  LineIcon,
+  PocketIcon,
+  InstapaperIcon,
+} from 'react-share';
+
+
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -22,11 +71,19 @@ export const SinglePostTemplate = ({
       itemScope
       itemType="http://schema.org/BlogPosting"
     >
+
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
+      <div class="demobox2">
+      <div class="demobox3">
+
+      <Link className="SinglePost--BackButton" to="/blog/">
           <ChevronLeft /> BACK
-          <div class="icons2"><a class="icon2 icon-gp" href="#"></a><a class="icon2 icon-fb" href="#"></a><a class="icon2 icon-tw" href="#"></a><a class="icon2 icon-in" href="#"></a></div>
-        </Link>
+      </Link>
+
+      <div class="fb-like" data-href="https://weedshome.com" data-width="" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+
+      </div>
+      </div>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
             {date && (
@@ -61,7 +118,6 @@ export const SinglePostTemplate = ({
           )}
 
           <div className="SinglePost--InnerContent">
-          <div data-mantis-zone="captain-jack"></div>
             <Content source={body} />
           </div>
 
@@ -84,6 +140,10 @@ export const SinglePostTemplate = ({
             )}
           </div>
         </div>
+           <div class="demobox">
+           <h2 class="h2comments" >Join the Discussion</h2>
+          <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5" colorscheme="light"></div>
+          </div>
       </div>
     </article>
   </main>
@@ -107,6 +167,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
     </Layout>
   )
 }
+
 
 
 export default SinglePost
