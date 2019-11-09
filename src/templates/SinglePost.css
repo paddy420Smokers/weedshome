@@ -84,6 +84,14 @@
   border-radius: 30px;
 }
 
+@media (max-width: 600px) {
+  .SinglePost--Pagination--Link {
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 16px 50px;
+  }
+}
+
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
   color: white;

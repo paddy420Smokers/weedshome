@@ -44,6 +44,12 @@
   border-bottom-color: transparent;
 }
 
+@media (max-width: 1064px) {
+  .NavLink {
+  font-size: 14px;
+  }
+}
+
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {

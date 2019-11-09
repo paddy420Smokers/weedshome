@@ -19,19 +19,25 @@
 
   @media (max-width: 600px) {
     .PageHeader2--Title {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     }
   }
   
   .PageHeader2--Subtitle {
-      font-size: 24px;
+      font-size: 20px;
       font-weight: 400;
       margin: 0px;
   }
 
   @media (max-width: 600px) {
     .PageHeader2--Subtitle {
-    font-size: 18px;
+    font-size: 14px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .drift {
+    height: 70px;
     }
   }
   

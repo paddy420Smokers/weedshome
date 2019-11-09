@@ -478,6 +478,21 @@ main.DefaultPage {
   background-repeat: no-repeat;
 }
 
+@media (max-width: 600px) {
+  .icon2 {
+    position: relative;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 50%;
+      
+    background-size: 60%;
+    background-position: center center; 
+    background-repeat: no-repeat;
+  }
+}
+
 .icon2:hover {
   opacity: 0.6;
 }
