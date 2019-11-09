@@ -103,7 +103,7 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Male</span>
+              <span>Personal</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
@@ -112,7 +112,7 @@ class Form extends React.Component {
                 name="gender"
                 value="female"
               />
-              <span>Female</span>
+              <span>Business</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -135,9 +135,12 @@ class Form extends React.Component {
               <option disabled hidden>
                 Type of Enquiry
               </option>
-              <option>Need to know more</option>
+              <option>Cannabis related question</option>
               <option>Found a bug</option>
               <option>Want to say hello</option>
+              <option>Advertisement</option>
+              <option>Press</option>
+              <option>Legal</option>
             </select>
           </label>
           <label className="Form--Label">

@@ -1,7 +1,9 @@
 ---
 template: BlogIndex
 title: CBD
-featuredImage: 'https://ucarecdn.com/5cd29a77-0b06-4ee2-8de6-9647944a6a8d/'
+subtitle: >-
+  Welcome to the ultimate Cannabis starter project.
+featuredImage: 'https://i.imgur.com/urqETAE.jpg'
 meta:
   description: >+
     Learn how to build a modern site using React and the most efficient

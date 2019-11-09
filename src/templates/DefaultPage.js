@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import PageHeader from '../components/PageHeader'
+import PageHeader3 from '../components/PageHeader3'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
@@ -14,16 +14,14 @@ export const DefaultPageTemplate = ({
   body
 }) => (
   <main className="DefaultPage">
-    <PageHeader
+    <PageHeader3
       title={title}
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-
     <section className="section">
       <div className="container">
         <Content source={body} />
-        <SVGIcon src="/images/calendar.svg" />
       </div>
     </section>
   </main>

@@ -2,8 +2,8 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://ucarecdn.com/989565a2-f200-42be-8327-bf83d1ef5a97/'
-subtitle: This is the contact page subtitle.
+featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
+subtitle: Questions & Business Inquiries
 address: 'Carl-Benz Strasse 66, 68809 Neulussheim'
 phone: +0491705597030
 email: info@weedshome.com
@@ -15,4 +15,26 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-This form is setup to use Netlify's form handling.
+<h3>Get In Touch</h3>
+
+Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer within 24 hours.
+
+Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer. 
+
+
+<b>Type of Enquiry:</b>
+
+<ul>
+   <li>Found a bug</li>
+   <li>Want to say hello</li>
+   <li>Cannabis related question</li>
+   <li>Advertisement</li>
+   <li>Press</li>
+   <li>Legal</li>
+</ul>
+
+Fill out the form or send us an E-Mail to get in touch with us. 
+
+Fill out the form or send us an E-Mail to get in touch with us.
+
+

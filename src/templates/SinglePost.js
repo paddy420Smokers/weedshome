@@ -22,17 +22,10 @@ export const SinglePostTemplate = ({
       itemScope
       itemType="http://schema.org/BlogPosting"
     >
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-            <div class="icon-bar">
-  <a href="#" class="facebook"><i class="fa fa-facebook"></i></a> 
-  <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> 
-  <a href="#" class="google"><i class="fa fa-google"></i></a> 
-  <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-  <a href="#" class="youtube"><i class="fa fa-youtube"></i></a> 
-</div>
       <div className="container skinny">
         <Link className="SinglePost--BackButton" to="/blog/">
           <ChevronLeft /> BACK
+          <div class="icons2"><a class="icon2 icon-gp" href="#"></a><a class="icon2 icon-fb" href="#"></a><a class="icon2 icon-tw" href="#"></a><a class="icon2 icon-in" href="#"></a></div>
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
@@ -61,7 +54,6 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
-
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
@@ -69,10 +61,9 @@ export const SinglePostTemplate = ({
           )}
 
           <div className="SinglePost--InnerContent">
+          <div data-mantis-zone="captain-jack"></div>
             <Content source={body} />
           </div>
-
-          <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="auto" data-numposts="5"></div>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (

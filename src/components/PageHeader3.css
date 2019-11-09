@@ -1,0 +1,66 @@
+.PageHeader3 {
+    background-color: var(--darkGrey);
+    color: white;
+    padding: 5rem 0;
+  }
+  
+  .PageHeader3 .BackgroundImage {
+    opacity: 0.8;
+  }
+  
+  .PageHeader3-large {
+    padding: 17rem 0;
+  }
+  
+  .PageHeader3--Title {
+    font-size: 6rem;
+    margin-bottom: 0;
+  }
+  
+  .PageHeader3--Subtitle {
+      font-size: 24px;
+      font-weight: 400;
+      margin: 0px;
+      background: linear-gradient(104.74deg, rgb(240, 243, 245) 0%, rgb(240, 243, 245) 100%) text;
+  }
+  
+  .PageHeader3--Button {
+      font-size: 20px;
+      box-shadow: rgba(101, 41, 255, 0.15) 0px 10px 20px;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-block;
+      justify-self: center;
+      white-space: nowrap;
+      background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
+      border-radius: 30px;
+      border-width: initial;
+      border-style: none;
+      border-color: initial;
+      border-image: initial;
+      padding: 16px 60px;
+      outline: none;
+      transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
+  }
+  
+  .PageHeader3 .container {
+    animation: fadeIn 0.5s ease-out;
+    text-align: center;
+  }
+  
+  @media (max-width: 600px) {
+    .PageHeader3 {
+      padding: 7rem 0;
+    }
+    .PageHeader3-large {
+      padding: 12.5rem 0;
+    }
+  }
+  
+  .PageHeader3 svg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  

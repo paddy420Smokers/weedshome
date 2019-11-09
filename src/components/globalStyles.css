@@ -1,6 +1,6 @@
 :root {
   --primary: #3b9c42;
-  --secondary: #000;
+  --secondary: #121f24;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
@@ -56,7 +56,7 @@ strong {
 
 p {
   margin-top: 0;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 h1,
@@ -155,7 +155,7 @@ blockquote {
 .section {
   width: 100%;
   padding: 5rem 0;
-  background: #fff;
+  background: #121f24;
 }
 .section:last-child {
   border: 0;
@@ -165,6 +165,7 @@ blockquote {
 }
 .section.thin {
   padding: 3.5rem 0;
+  background-color: #f0f3f5;
 }
 .section.noPadding {
   padding: 0;
@@ -245,7 +246,6 @@ blockquote {
 .container2 {
     display: grid;
     justify-items: center;
-    gap: 10px 10px;
     padding: 0px 20px;
     background: #111f25;
 }
@@ -343,10 +343,25 @@ blockquote {
   box-shadow: 0 0 15px 10px #141414;
 }
 
+.section4 {
+  width: 100%;
+  text-align: center;
+  background: #121f25;
+  padding-bottom: 50px;
+}
+
+.section6 {
+  width: 100%;
+  padding: 5rem 5;
+  margin-bottom: -7px;
+  background: #121f25;
+  box-shadow: 0 0 15px 10px #141414;
+}
 
 .icons {
   margin: 0px auto;
   text-align: center;
+  padding-bottom: 50px;
 }
 
 .icon {
@@ -399,6 +414,78 @@ blockquote {
     background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
 }
 
+.PageHeader.relative {
+  padding: 17rem 0;
+}
 
+article.SinglePost.section.light {
+  background-color: #121f25;
+}
 
+.container.Contact--Section1--Container {
+  color: #fff;
+}
+
+main.DefaultPage {
+  color: white;
+}
+
+.icons2 {
+  margin: 0px auto;
+  text-align: center;
+  margin-right: 0;
+}
+
+.icon2 {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 15px;
+  border-radius: 50%;
+    
+  background-size: 60%;
+  background-position: center center; 
+  background-repeat: no-repeat;
+}
+
+.icon2:hover {
+  opacity: 0.6;
+}
+
+.icon2-yt {
+  background-image: url("https://i.imgur.com/kce2E7s.png");
+  background-color: hsl(360, 90%, 40%);
+}
+
+.icon2-gp {
+  background-image: url("https://i.imgur.com/rAbnN1U.png");
+  background-color: hsl(360, 80%, 50%);
+}
+
+.icon2-fb {
+  background-image: url("https://i.imgur.com/HujNYDb.png");
+  background-color: hsl(230, 50%, 40%);
+}
+
+.icon2-in {
+  background-image: url("https://i.imgur.com/2Y9rW1r.png");
+  background-color: hsl(220, 60%, 50%);
+}
+
+.icon2-tw {
+  background-image: url("https://i.imgur.com/7ZgkBfy.png");
+  background-color: hsl(200, 90%, 60%);
+}
+
+.Content--Image2, .Content2 img {
+  max-width: 100%;
+  border: 5px solid #43c931;
+  border-radius: 0px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+}
 

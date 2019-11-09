@@ -6,7 +6,6 @@
 
 .PageHeader .BackgroundImage {
   opacity: 0.8;
-  box-shadow: 0 0 15px 10px #141414;
 }
 
 .PageHeader-large {
@@ -19,7 +18,7 @@
 }
 
 .PageHeader--Subtitle {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
     margin: 0px;
     background: linear-gradient(104.74deg, rgb(240, 243, 245) 0%, rgb(240, 243, 245) 100%) text;

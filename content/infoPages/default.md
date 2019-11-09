@@ -1,10 +1,146 @@
 ---
 template: DefaultPage
 slug: default
-title: Default
-featuredImage: 'https://ucarecdn.com/e402f060-e9b4-483e-a588-2a68be4d2967/'
+title: About
+featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
+subtitle: About Weed's Home
 meta:
-  description: test meta description
-  title: test meta title
+  description: About Weed's Home
+  title: About Us
 ---
-##
+<h2>About Weeds Home</h2>
+
+This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+
+Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
+
+<h2>Our Awesome Team</h2>
+
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 23.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+font-size: 16px;
+    -webkit-box-shadow: rgba(101, 41, 255, 0.15) 0px 10px 20px;
+    box-shadow: rgba(101, 41, 255, 0.15) 0px 10px 20px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+    justify-self: center;
+    white-space: nowrap;
+    background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
+    border-radius: 30px;
+    border-width: medium;
+    border-width: initial;
+    border-style: none;
+    /* align-items: center; */
+    /* text-align: center; */
+    border-color: currentColor;
+    border-color: initial;
+    -o-border-image: none;
+    border-image: none;
+    -o-border-image: initial;
+    border-image: initial;
+    padding: 16px 60px;
+    outline: none;
+    -webkit-transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
+    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Dennis Bertuzzi</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Dennis Bertuzzi</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Dennis Bertuzzi</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Dennis Bertuzzi</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+
+<h2>Partners</h2>

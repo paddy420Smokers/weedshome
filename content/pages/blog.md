@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Our Cannabis Blog
-featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
+featuredImage: 'https://i.imgur.com/urqETAE.jpg'
 subtitle: >-
   Welcome to the ultimate Cannabis starter project.
 
