@@ -143,6 +143,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <div class="icons">
   <a class="icon icon-fb" href="https://www.facebook.com/WeedsHome/"></a>
   <a class="icon icon-in" href="https://www.instagram.com/weedshome.wh/"></a>
+  <a class="icon icon-tw" href="https://mobile.twitter.com/home_weed"></a>
 </div>
   </div>
     </section>
