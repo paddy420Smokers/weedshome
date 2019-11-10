@@ -182,6 +182,12 @@
  color: white;
 }
 
+@media (max-width: 600px) {
+  .h2comments {
+ font-size: 17px;
+  }
+}
+
 .demobox3 {
   padding: 10px;
   padding-left: 20px;
