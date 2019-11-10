@@ -73,6 +73,12 @@
   color: #ffffff;
 }
 
+@media (max-width: 600px) {
+  .container.taCenter {
+  margin: 0px auto 40px;
+  }
+}
+
 .ftr {
   background-color: #121f24;
   -webkit-box-shadow: 0px -30px 50px 0px #000000;
@@ -83,6 +89,7 @@
   height: 100px;
   width: 100px;
   margin: 0 auto;
+  margin-bottom: 15px;
 }
 
 p.doba {

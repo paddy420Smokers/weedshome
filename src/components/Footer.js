@@ -23,15 +23,14 @@ export default () => (
 </div>
 <div class="footer--linkgroup">
 <div class="footer--title" color="#94A4BA"><p>Help</p></div>
-<a href="/post-categories/news/">Terms</a>
-<a href="/post-categories/growing/">Privacy</a>
-<a href="/post-categories/cbd/">Impressum</a>
-<a href="/post-categories/health/">Advertise</a>
-<a href="/post-categories/health/">Sitemap</a>
+<a href="/impressum/">Impressum</a>
+<a href="/advertise/">Advertise</a>
+<a href="/terms/">Terms</a>
+<a href="/privacy/">Privacy</a>
 </div>
 <div class="footer--linkgroup">
 <div class="footer--title" color="#94A4BA"><p class="doba">Information</p></div>
-<img class="footer--img" src="/images/logo2.png"></img>
+<img class="footer--img" src="/images/footer-logo.png"></img>
 <p class="doba">Weed's Home Is Where The Weed Is At! Feel free to contact us via E-Mail.</p>
 </div> 
 </div> 

@@ -1,9 +1,9 @@
 ---
 template: DefaultPage
-slug: default
+slug: about
 title: About
 featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
-subtitle: About Weed's Home
+subtitle: About Us
 meta:
   description: About Weed's Home
   title: About Us
