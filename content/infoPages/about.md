@@ -89,6 +89,37 @@ font-size: 16px;
     transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
 }
 
+.columnx {
+    margin: 0 auto;
+    /* width: 23.3%; */
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.imgs {
+  margin: 0px 300px 00px 300px;
+}
+
+  @media (max-width: 1000px) {
+    .imgs {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    }
+  }
+
+
+
+  @media (max-width: 600px) {
+    .columnx {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    }
+  }
+
 .button:hover {
   background-color: #555;
 }
@@ -112,3 +143,7 @@ font-size: 16px;
 **It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
 
 <h2>Partners</h2>
+
+<div class="imgs">
+<img src="/images/logo_hlm2.png" class="imgss" alt="IHL" style="width: 50%;">
+</div>
