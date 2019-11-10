@@ -65,6 +65,9 @@ const WaveTop = styled.div`
     width: 100%;
     top: -7px;
     transform: rotate(180deg);
+    @media (max-width: 600px) {
+    transform: rotate(0deg);
+    }
 `
 
 const Section = props => (
