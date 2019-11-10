@@ -54,12 +54,6 @@ const SectionText = styled.p`
     margin: 0px;
 `
 
-const WaveBottom = styled.div`
-    position: absolute;
-    width: 100%;
-    bottom: -6px;
-`
-
 const WaveTop = styled.div`
     position: absolute;
     width: 100%;

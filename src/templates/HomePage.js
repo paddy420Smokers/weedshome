@@ -3,11 +3,9 @@ import { graphql } from 'gatsby'
 
 
 import PageHeader from '../components/PageHeader'
-import Content from '../components/Content'
 import Layout from '../components/Layout'
 import CountUp from 'react-countup';
 import Section from '../components/Section';
-import Wave from '../components/Wave';
 import staticdata from '../../staticdata.json'
 import Cell from '../components/Cell';
 import styled from 'styled-components'
@@ -51,7 +49,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
   <a href="/post-categories/news/">
     <div class="cardcat">
          <h3 class="tricks">News</h3>
-         <img src="https://img.icons8.com/cotton/64/000000/worldwide-location--v1.png"></img>
+         <img alt="cannabis news icon" src="https://img.icons8.com/cotton/64/000000/worldwide-location--v1.png"></img>
              <p class="cardcat-text">Breaking cannabis news and current headlines</p>
              
     </div>
@@ -60,7 +58,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/recreational/">
     <div class="cardcat">
          <h3 class="tricks">Recreational</h3>
-         <img src="https://img.icons8.com/cotton/64/000000/literature-1.png"></img>
+         <img alt="recreational icon" src="https://img.icons8.com/cotton/64/000000/literature-1.png"></img>
   <i class="far fa-address-card"></i>
              <p class="cardcat-text">Discover new stoner activities today</p>
     </div>
@@ -69,7 +67,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/growing/">
      <div class="cardcat">
          <h3 class="tricks">Growing</h3>
-         <img src="https://img.icons8.com/cotton/64/000000/hand-planting--v1.png"></img>
+         <img alt="growing cannabis icon" src="https://img.icons8.com/cotton/64/000000/hand-planting--v1.png"></img>
              <p class="cardcat-text">Everything related to growing cannabis</p>
     </div>
 </a>
@@ -77,7 +75,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/trending/">
      <div class="cardcat">
        <h3 class="tricks">Trending</h3>
-       <img src="https://img.icons8.com/cotton/64/000000/earth-planet--v1.png"></img>
+       <img alt="trending icon" src="https://img.icons8.com/cotton/64/000000/earth-planet--v1.png"></img>
              <p class="cardcat-text">Trends, new technologies and expert insights</p>
     </div>
 </a>
@@ -85,7 +83,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/cbd/">
    <div class="cardcat">
        <h3 class="tricks">CBD</h3>
-       <img src="https://img.icons8.com/cotton/64/000000/test-tube-1.png"></img>
+       <img alt="cbd icon" src="https://img.icons8.com/cotton/64/000000/test-tube-1.png"></img>
              <p class="cardcat-text">Discover more about Cannabidiol here</p>
     </div>
 </a>
@@ -93,7 +91,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/health/">
    <div class="cardcat">
        <h3 class="tricks">Health</h3>
-       <img src="https://img.icons8.com/cotton/64/000000/yoga.png"></img>       
+       <img alt="cannabis and health icon" src="https://img.icons8.com/cotton/64/000000/yoga.png"></img>       
              <p class="cardcat-text">Our cannabis related health articles</p>
     </div>
 </a>
@@ -101,7 +99,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <a href="/post-categories/products/">
    <div class="cardcat">
        <h3 class="tricks">Products</h3>
-       <img src="https://img.icons8.com/cotton/64/000000/price-tag--v1.png"></img>
+       <img alt="stoner product reviews icon" src="https://img.icons8.com/cotton/64/000000/price-tag--v1.png"></img>
              <p class="cardcat-text">Buyer guides for the best stoner products</p>
     </div>
 </a>

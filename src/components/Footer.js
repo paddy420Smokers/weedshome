@@ -1,5 +1,4 @@
 import React from 'react'
-import InstagramFeed from './InstagramFeed'
 import './Footer.css'
 
 export default () => (
@@ -30,7 +29,7 @@ export default () => (
 </div>
 <div class="footer--linkgroup">
 <div class="footer--title" color="#94A4BA"><p class="doba">Information</p></div>
-<img class="footer--img" src="/images/footer-logo.png"></img>
+<img class="footer--img" alt="weeds home footer logo" src="/images/footer-logo.png"></img>
 <p class="doba">Weed's Home Is Where The Weed Is At! Feel free to contact us via E-Mail.</p>
 </div> 
 </div> 

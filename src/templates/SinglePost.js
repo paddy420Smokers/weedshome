@@ -4,58 +4,6 @@ import _format from 'date-fns/format'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
-import {
-  FacebookShareCount,
-  PinterestShareCount,
-  VKShareCount,
-  OKShareCount,
-  RedditShareCount,
-  TumblrShareCount,
-
-  FacebookShareButton,
-  LinkedinShareButton,
-  TwitterShareButton,
-  PinterestShareButton,
-  VKShareButton,
-  OKShareButton,
-  TelegramShareButton,
-  WhatsappShareButton,
-  RedditShareButton,
-  EmailShareButton,
-  TumblrShareButton,
-  LivejournalShareButton,
-  MailruShareButton,
-  ViberShareButton,
-  WorkplaceShareButton,
-  LineShareButton,
-  WeiboShareButton,
-  PocketShareButton,
-  InstapaperShareButton,
-
-  FacebookIcon,
-  TwitterIcon,
-  LinkedinIcon,
-  PinterestIcon,
-  VKIcon,
-  OKIcon,
-  TelegramIcon,
-  WhatsappIcon,
-  RedditIcon,
-  TumblrIcon,
-  MailruIcon,
-  EmailIcon,
-  LivejournalIcon,
-  ViberIcon,
-  WorkplaceIcon,
-  LineIcon,
-  PocketIcon,
-  InstapaperIcon,
-} from 'react-share';
-
-
-import { FacebookProvider, Comments } from 'react-facebook';
-
-
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -145,8 +93,7 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
-           <div class="fb-comments" data-href="https://dazzling-lichterman-264dac.netlify.com/" data-width="" data-numposts="5"></div>
-           </div>
+        </div>
       </div>
     </article>
   </main>

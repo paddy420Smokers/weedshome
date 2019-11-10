@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 import PageHeader3 from '../components/PageHeader3'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import SVGIcon from '../components/SVGIcon'
 
 // Export Template for use in CMS preview
 export const DefaultPageTemplate = ({
