@@ -1,13 +1,14 @@
 ---
 template: DefaultPage
-slug: about
-title: About
+slug: information-about-us
+title: About Us
 featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
-subtitle: About Us
+subtitle: About
 meta:
-  description: About Weed's Home
-  title: About Us
+  description: Advertising Weed's Home
+  title: Advertisement
 ---
+
 <h2>About Weeds Home</h2>
 
 This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
@@ -25,8 +26,8 @@ html {
   box-sizing: inherit;
 }
 
-.column {
-  float: left;
+.columnx {
+  margin: 0 auto;
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -94,7 +95,7 @@ font-size: 16px;
 </style>
 
 <div class="row">
-  <div class="column">
+  <div class="columnx">
     <div class="card">
       <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
       <div class="container">
@@ -105,40 +106,7 @@ font-size: 16px;
       </div>
     </div>
   </div>
-    <div class="column">
-    <div class="card">
-      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Dennis Bertuzzi</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
   </div>
-    <div class="column">
-    <div class="card">
-      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Dennis Bertuzzi</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-    <div class="column">
-    <div class="card">
-      <img src="/images/dennis.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Dennis Bertuzzi</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-</div>
 
 
 **It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**

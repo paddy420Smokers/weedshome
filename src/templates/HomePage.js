@@ -141,11 +141,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 <h4 class="H4Subtitle">people that follow Weed's Home</h4></div></div>
 <div>
 <div class="icons">
-  <a class="icon icon-yt" href="www.facebook.com"></a>
-  <a class="icon icon-gp" href="#"></a>
-  <a class="icon icon-fb" href="#"></a>
-  <a class="icon icon-tw" href="#"></a>
-  <a class="icon icon-in" href="#"></a>
+  <a class="icon icon-fb" href="https://www.facebook.com/WeedsHome/"></a>
+  <a class="icon icon-in" href="https://www.instagram.com/weedshome.wh/"></a>
 </div>
   </div>
     </section>

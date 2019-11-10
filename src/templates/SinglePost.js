@@ -80,8 +80,6 @@ export const SinglePostTemplate = ({
           <ChevronLeft /> BACK
       </Link>
 
-      <div class="fb-like" data-href="https://www.weedshome.com" data-width="1000" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-
       </div>
       </div>
         <div className="SinglePost--Content relative">
