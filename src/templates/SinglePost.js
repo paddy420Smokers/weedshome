@@ -53,9 +53,13 @@ import {
 } from 'react-share';
 
 
+import { FacebookProvider, Comments } from 'react-facebook';
+
+
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+
 
 export const SinglePostTemplate = ({
   title,
@@ -66,6 +70,7 @@ export const SinglePostTemplate = ({
   categories = []
 }) => (
   <main>
+  <div id="fb-root"></div>
     <article
       className="SinglePost section light"
       itemScope
@@ -140,7 +145,8 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
-           <div class="fb-comments" data-href="https://facebook.com/WeedsHome" data-width="" data-numposts="5"></div>          </div>
+           <div class="fb-comments" data-href="https://dazzling-lichterman-264dac.netlify.com/" data-width="" data-numposts="5"></div>
+           </div>
       </div>
     </article>
   </main>
