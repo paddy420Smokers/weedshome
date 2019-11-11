@@ -101,7 +101,7 @@ export const SinglePostTemplate = ({
 <div class="sidebar">
 <div class="sticky">
 <div class="sub-text">
-<div class="demobox2">
+<div class="demoboxb">
 <div><h3 class="template-name">Weed's Home</h3>
 <h6 class="info-text">More Information</h6>
 </div></div>

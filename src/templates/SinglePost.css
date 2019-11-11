@@ -169,6 +169,17 @@
     background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
     padding: 16px 60px;
     text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.demoboxb {
+  background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
+  padding: 16px 60px;
+  text-align: center;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .demobox2 {
