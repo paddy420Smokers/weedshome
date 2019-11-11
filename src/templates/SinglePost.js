@@ -25,6 +25,9 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
 
+
+      <div className="containersd">
+      <div className="template-row">
       <div className="container skinny">
       <div class="demobox2">
       <div class="demobox3">
@@ -94,8 +97,33 @@ export const SinglePostTemplate = ({
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
         </div>
+
+<div class="sidebar">
+<div class="sticky">
+<div class="sub-text">
+<div class="demobox2">
+<div><h3 class="template-name">Weed's Home</h3>
+<h6 class="info-text">More Information</h6>
+</div></div>
+</div>
+<div class="white-box">
+<div class="sidebar-top">
+<div class="offer">Welcome to Weed's Home! Join our Newsletter today and receive the latest cannabis headlines from around the world!</div>
+<a href="/terms/" class="button-sidebar">Join our Newsletter</a>
+<a href="#" class="terms-link">Terms and Conditions Apply</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+       
+
       </div>
     </article>
+
+
+
   </main>
 )
 
