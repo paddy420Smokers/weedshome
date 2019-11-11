@@ -18,7 +18,6 @@ export const SinglePostTemplate = ({
   categories = []
 }) => (
   <main>
-  <div id="fb-root"></div>
     <article
       className="SinglePost section light"
       itemScope
@@ -109,8 +108,10 @@ export const SinglePostTemplate = ({
 <div class="white-box">
 <div class="sidebar-top">
 <div class="offer">Welcome to Weed's Home! Join our cannabis Newsletter today.</div>
-<a href="/terms/" class="button-sidebar">Join our Newsletter</a>
-<a href="#" class="terms-link">Terms and Conditions Apply</a></div>
+<a href="/contact/" class="button-sidebar">Join our Newsletter</a>
+<a href="/terms/" class="terms-link">Terms and Conditions Apply</a>
+<div class="icons3"><a class="icon3 icon-fb" href="https://www.facebook.com/WeedsHome/"></a><a class="icon3 icon-in" href="https://www.instagram.com/weedshome.wh/"></a><a class="icon3 icon-tw" href="https://mobile.twitter.com/home_weed"></a></div>
+</div>
 </div>
 </div>
 </div>
