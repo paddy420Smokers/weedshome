@@ -108,7 +108,7 @@ export const SinglePostTemplate = ({
 </div>
 <div class="white-box">
 <div class="sidebar-top">
-<div class="offer">Welcome to Weed's Home! Join our Newsletter today and receive the latest cannabis headlines from around the world!</div>
+<div class="offer">Welcome to Weed's Home! Join our cannabis Newsletter today.</div>
 <a href="/terms/" class="button-sidebar">Join our Newsletter</a>
 <a href="#" class="terms-link">Terms and Conditions Apply</a></div>
 </div>
