@@ -45,4 +45,4 @@ Hemp can also be processed into biofuels that can be used to power vehicles or o
 
 ### Conclusion
 
-The primary goal of this article is to help you understand just how long hemp has been a part of human society and the vast array of uses hemp has. Hemp is a growing industry with retailers like Industrial Hemp Farms, stepping up the service for the ever-growing need for hemp products. As the stigma erodes around marijuana, hemp will also become less guilty by association. People will be much more willing to invest in hemp-based ventures.
+The primary goal of this article is to help you understand just how long hemp has been a part of human society and the vast array of uses hemp has. Hemp is a growing industry with retailers like Industrial [Hemp Farms](https://industrialhempfarms.com/), stepping up the service for the ever-growing need for hemp products. As the stigma erodes around marijuana, hemp will also become less guilty by association. People will be much more willing to invest in hemp-based ventures.
