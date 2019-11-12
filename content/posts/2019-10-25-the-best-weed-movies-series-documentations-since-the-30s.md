@@ -2,6 +2,7 @@
 template: SinglePost
 title: 'The Best Weed Movies, Series & Documentations Since The ''30s'
 status: Published
+slug: best-weed-stoner-movies-series-documentations
 date: 2019-03-25T09:42:34.864Z
 featuredImage: 'https://ucarecdn.com/c31f6ed8-df74-44b5-97fc-cab06b7e1140/'
 excerpt: The Best Weed And Stoner Movies Since 1930
