@@ -2,6 +2,7 @@
 template: SinglePost
 title: 'THC-A Crystalline: The Strongest Hash "99.99% THC"'
 status: Published
+slug: thc-a-crystalline
 date: 2017-04-15T12:36:47.041Z
 featuredImage: 'https://ucarecdn.com/c5c448b0-6d8c-424c-b025-f6193d1e8a58/'
 excerpt: THC-A Crystalline is the pures form of THC and strongest hash available
