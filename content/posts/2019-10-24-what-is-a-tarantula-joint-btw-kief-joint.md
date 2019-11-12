@@ -2,6 +2,7 @@
 template: SinglePost
 title: What Is A Tarantula Joint Btw. Kief Joint?
 status: Published
+slug: kief-tarantula-joint
 date: 2018-08-14T14:18:56.087Z
 featuredImage: 'https://ucarecdn.com/b5e3b9c7-532c-4b52-b271-87594a2bcee0/'
 excerpt: Kief Joint aka Tarantula Joint
