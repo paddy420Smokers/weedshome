@@ -2,6 +2,7 @@
 template: SinglePost
 title: 'CBD Oil For Dogs And Anxiety: Stop Your Pup''s Worrying'
 status: Published
+slug: cbd-oil-for-dogs-and-anxiety
 date: 2018-12-19T15:31:53.164Z
 featuredImage: 'https://ucarecdn.com/13676ee8-e0c6-48f5-8b59-b15e82d2e68f/'
 excerpt: CBD For Pets
