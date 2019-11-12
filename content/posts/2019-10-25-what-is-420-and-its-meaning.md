@@ -2,6 +2,7 @@
 template: SinglePost
 title: What Is 420 And Its Meaning ?
 status: Published
+slug: meaning-420
 date: 2017-04-20T12:35:24.054Z
 featuredImage: 'https://ucarecdn.com/c26fa512-43ef-42a2-8b79-8660e12f9f88/'
 excerpt: 420 is the most celebrated day by stoners
