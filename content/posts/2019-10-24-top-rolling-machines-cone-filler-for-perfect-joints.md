@@ -2,6 +2,7 @@
 template: SinglePost
 title: Top Rolling Machines & Cone Filler For Perfect Joints
 status: Published
+slug: top-rolling-machines-cone-filler-loader
 date: 2017-05-27T09:36:02.995Z
 featuredImage: 'https://ucarecdn.com/201f114f-112c-42a6-bd02-868e78cb868a/'
 excerpt: The Best Rolling Machines and Cone Filler on the market
