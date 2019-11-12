@@ -3,7 +3,7 @@ template: SinglePost
 title: Why Are CBD Products For Pets Becoming So Popular?
 status: Published
 slug: cbd-products-for-pets-becoming-popular
-date: 2019-11-12T14:34:33.494Z
+date: 2018-08-18T13:34:33.494Z
 featuredImage: 'https://ucarecdn.com/5b9e6653-ed12-42bb-b15a-50c2ecb17814/'
 excerpt: CBD for animals
 categories:
