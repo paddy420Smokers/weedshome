@@ -2,6 +2,7 @@
 template: SinglePost
 title: The Best And Easiest Recipe For Marijuana Cookies
 status: Published
+slug: marijuana-cookies-best-recipe
 date: 2017-06-08T12:06:56.916Z
 featuredImage: 'https://ucarecdn.com/007bd00e-c2e5-4783-a379-14c5eebfb347/'
 excerpt: Cannabis or Marijuana Cookies are easy to made and tasty as well
