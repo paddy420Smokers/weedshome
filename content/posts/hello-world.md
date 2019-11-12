@@ -2,6 +2,7 @@
 template: SinglePost
 title: Most Known And Best Bong Brands Worldwide
 status: Published
+slug: best-bong-brands
 date: 2019-04-24T22:00:00.000Z
 featuredImage: 'https://ucarecdn.com/ed89b2f7-d853-4c47-90bf-d059c122b3e5/'
 excerpt: Most Known and best Bong Brand in the World
