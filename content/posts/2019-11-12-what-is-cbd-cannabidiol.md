@@ -4,6 +4,7 @@ title: What is CBD (Cannabidiol)?
 status: Published
 slug: what-is-cbd-cannabidiol
 date: 2019-01-08T14:18:30.338Z
+featuredImage: 'https://ucarecdn.com/1e7f49e9-1040-4f7d-94d7-502e611493a2/'
 excerpt: What is CBD
 categories:
   - category: Guest Posts
