@@ -6,6 +6,8 @@ slug: cannabis-services-canada-how-it-works
 date: 2019-09-21T14:04:19.745Z
 featuredImage: 'https://ucarecdn.com/b2809f35-8193-463b-8cc0-8575579849d8/'
 excerpt: Medical cannabis delivery service
+categories:
+  - category: Guest Posts
 ---
 ![](https://ucarecdn.com/d9a16df3-6e3e-40b4-8de6-dddc681ee0b8/)
 
