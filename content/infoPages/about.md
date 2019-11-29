@@ -139,9 +139,6 @@ font-size: 16px;
   </div>
   </div>
 
-
-**Weed's Home - Home Is Where The Weed Is At.**
-
 <h2>Partners</h2>
 
 <div class="imgs">
