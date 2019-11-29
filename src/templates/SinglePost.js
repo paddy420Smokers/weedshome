@@ -82,6 +82,8 @@ export const SinglePostTemplate = ({
 <script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/mantodea.min.js" async></script>
           </div>
 
+<div data-mantis-zone="weedhack"></div>
+
           <div className="SinglePost--Pagination">
             {prevPostURL && (
               <Link
