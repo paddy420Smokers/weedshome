@@ -9,7 +9,7 @@ export default () => (
 <div class="footer--title" color="#94A4BA"><p>Main</p></div>
 <a href="/">Home</a>
 <a href="/blog/">Blog</a>
-<a href="/about/">About</a>
+<a href="/information-about-us/">About</a>
 <a href="/contact/">Contact</a>
 </div>
 <div class="footer--linkgroup">
