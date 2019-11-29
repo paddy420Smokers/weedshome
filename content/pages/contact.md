@@ -19,8 +19,6 @@ meta:
 
 Contact us for general questions about cannabis, advertisement, sponsoring or simply to say hello. We usually answer within 24 hours.
 
-Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer.
-
 Please, fill out the enquiry field so that we can help you quicker!
 
 
