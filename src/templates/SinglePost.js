@@ -72,6 +72,14 @@ export const SinglePostTemplate = ({
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
+              <script type="text/javascript">
+	var mantis = mantis || [];
+	mantis.push(['display', 'load', {
+		property: '56b786343e9f56d344172a7e'
+	}]);
+</script>
+
+<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/mantodea.min.js" async></script>
           </div>
 
           <div className="SinglePost--Pagination">
