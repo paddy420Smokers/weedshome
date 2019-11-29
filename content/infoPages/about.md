@@ -11,9 +11,9 @@ meta:
 
 <h2>About Weeds Home</h2>
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+Due to some mistakes, we want to build the future business strategy on ethical and moral foundations to provide you with a unique experience.
 
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
+In cooperation with Highlife Media Consulting LLC
 
 <h2>Our Awesome Team</h2>
 
@@ -132,7 +132,7 @@ font-size: 16px;
       <div class="container">
         <h2>Dennis Bertuzzi</h2>
         <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Over 6 years working within the cannabis niche.</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
@@ -140,7 +140,7 @@ font-size: 16px;
   </div>
 
 
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+**Weed's Home - Home Is Where The Weed Is At.**
 
 <h2>Partners</h2>
 
