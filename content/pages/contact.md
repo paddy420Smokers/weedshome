@@ -17,9 +17,11 @@ meta:
 ---
 <h3>Get In Touch</h3>
 
-Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer within 24 hours.
+Contact us for general questions about cannabis, advertisement, sponsoring or simply to say hello. We usually answer within 24 hours.
 
-Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer. 
+Contact us for general information about cannabis, advertisement, sponsoring or just to say hello. We usually answer.
+
+Please, fill out the enquiry field so that we can help you quicker!
 
 
 <b>Type of Enquiry:</b>
@@ -35,6 +37,5 @@ Contact us for general information about cannabis, advertisement, sponsoring or 
 
 Fill out the form or send us an E-Mail to get in touch with us. 
 
-Fill out the form or send us an E-Mail to get in touch with us.
-
+© Weed's Home - Home Is Where The Weed Is At!
 
