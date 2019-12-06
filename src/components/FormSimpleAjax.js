@@ -1,3 +1,4 @@
+  
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import { stringify } from 'qs'
@@ -103,7 +104,7 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Personal</span>
+              <span>Male</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
@@ -112,7 +113,7 @@ class Form extends React.Component {
                 name="gender"
                 value="female"
               />
-              <span>Business</span>
+              <span>Female</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -135,12 +136,9 @@ class Form extends React.Component {
               <option disabled hidden>
                 Type of Enquiry
               </option>
-              <option>Cannabis related question</option>
+              <option>Need to know more</option>
               <option>Found a bug</option>
               <option>Want to say hello</option>
-              <option>Advertisement</option>
-              <option>Press</option>
-              <option>Legal</option>
             </select>
           </label>
           <label className="Form--Label">
@@ -163,7 +161,7 @@ class Form extends React.Component {
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LeqQMYUAAAAABORgim2BktJ6oWWvZDteCD2Ksyo"
+            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
