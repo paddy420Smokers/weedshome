@@ -18,7 +18,7 @@ meta:
 ---
 ![CBD Bath Bombs in differen Colors](https://ucarecdn.com/5e34a639-4019-4b7d-8e6b-adbc0575b56b/)
 
-Today's life is accompanied by the stress of one's daily hustle. Traveling between home and the office as well as long hours tend to have a toll on everyone. It is, therefore, only sensible that one gets time to sit back and relax. While different options are available, the calmest place to sit back and reminisce is always back at home. However, this option didn’t previously provide the luxury of utter relaxation, well, not until the advent of [CBD](https://weedshome.com/whats-cbd) bath bombs.
+Today's life is accompanied by the stress of one's daily hustle. Traveling between home and the office as well as long hours tend to have a toll on everyone. It is, therefore, only sensible that one gets time to sit back and relax. While different options are available, the calmest place to sit back and reminisce is always back at home. However, this option didn’t previously provide the luxury of utter relaxation, well, not until the advent of CBD bath bombs.
 
 CBD bath bombs have come to revolutionize the aspect of out-of-home spa treatments. Their creation has allowed people to enjoy the relaxation that comes with spa treatments at the comfort of their homes. In addition to this, the product accrues numerous other sensible perks to users (discussed later). This, therefore, begs the question: what are CBD bath bombs and how can one get them?
 
