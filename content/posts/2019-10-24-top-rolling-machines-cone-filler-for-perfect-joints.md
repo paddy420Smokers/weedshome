@@ -18,7 +18,7 @@ meta:
 
 Rolling machines/joint rollers & cone filler/loader are, in our opinion, one of the best developments in the history of weed smoking technology. With a good rolling machine perfect joints are always in reach and you can forget about the hassle of perfecting your rolling technique. The question then becomes, what is the best rolling machine or also known as joint roller ? Well have no fear, we here at Weed’s Home have collected the following list of the Top Rolling Machines & Cone Fillers on the market today.
 
-Do you prefer to roll/fill by your own? Check our [top rolling papers and joint cones](https://weedshome.com/best-rolling-papers-and-joint-cones).
+Do you prefer to roll/fill by your own? Check our [top rolling papers and joint cones](https://weedshome.com/top-rolling-machines-cone-filler-loader/).
 
 ## Cone Filler and Loader
 
