@@ -64,7 +64,7 @@ class Form extends React.Component {
         <form
           className="Form"
           name={name}
-          action={action}
+          action="POST"
           onSubmit={this.handleSubmit}
           data-netlify="true"
           data-netlify-recaptcha="true"
