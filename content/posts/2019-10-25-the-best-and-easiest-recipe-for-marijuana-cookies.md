@@ -34,7 +34,7 @@ Also, unlike inhaling, the ingestion of marijuana leaves nothing to waste. High
 
 ### Preparation Process For The CannaButter
 
-The simplest way to [make Cannabis Butter](http://weedshome.com/cannabutter-recipe) -> You are going to need these ingredients:
+[The simplest way to make Cannabis Butter](https://weedshome.com/marijuana-and-cannabis-butter-recipe/) -> You are going to need these ingredients:
 
 * 250 grams of butter
 * 20 grams of marijuana
