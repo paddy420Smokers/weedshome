@@ -64,10 +64,10 @@ class Form extends React.Component {
         <form
           className="Form"
           name={name}
-          action="POST"
+          action={action}
           onSubmit={this.handleSubmit}
-          data-netlify="true"
-          data-netlify-recaptcha="true"
+          data-netlify=""
+          netlify-recaptcha=""
         >
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
