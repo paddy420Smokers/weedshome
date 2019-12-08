@@ -19,9 +19,9 @@ meta:
 
 THCA crystalline is rumored to be the strongest hash in the world. THCA has become so popular that the market price for a single gram is $200.
 
-During the last decade, the extraction of cannabis has greatly improved. Growers and extractors have mastered their crafts up to a level that allows them to transform cannabis concentrates into a variety of textures and forms.  Concentrates like [Rosin](https://weedshome.com/make-rosin-press-straightener), BHO, [Bubble Hash](http://weedshome.com/bubble-hash-cannabis) all have been developed via the improved extraction techniques. However, the percentage of THC in the extracts usually ranges from 50-80%.
+During the last decade, the extraction of cannabis has greatly improved. Growers and extractors have mastered their crafts up to a level that allows them to transform cannabis concentrates into a variety of textures and forms.  Concentrates like Rosin, BHO, Bubble Hash all have been developed via the improved extraction techniques. However, the percentage of THC in the extracts usually ranges from 50-80%.
 
-Hitherto, the extraction of concentrates with pure THC was just but a dream to players in the cannabis industry. This, however, seems not to be the case anymore as a company from Southern California, Guild Extracts, has managed to make this dream a reality, by creating a concentrate with 99.9%[ THC](http://weedshome.com/whats-thc).
+Hitherto, the extraction of concentrates with pure THC was just but a dream to players in the cannabis industry. This, however, seems not to be the case anymore as a company from Southern California, Guild Extracts, has managed to make this dream a reality, by creating a concentrate with 99.9% THC.
 
 ## What Is THCA Crystalline?
 
@@ -61,7 +61,7 @@ This product could be a fast relief for those patients whose diseases require th
 
 Although the medical potential of THCA crystalline hasn’t been fully researched, it has several potential benefits. It has anti-inflammatory properties for the treatment of arthritis and lupus as well as neuroprotective properties for treatment of neurodegenerative diseases. Further, the substance is said to have anti-emetic properties for treating nausea and appetite loss.
 
-* Like THC and [CBD](http://weedshome.com/whats-cbd), this new product can cure:
+* Like THC and CBD, this new product can cure:
 * Anti-inflammatory properties for treatment of arthritis and lupus
 * Neuroprotective properties for treatment of neurodegenerative diseases
 * Anti-emetic properties for treatment of nausea and appetite loss
