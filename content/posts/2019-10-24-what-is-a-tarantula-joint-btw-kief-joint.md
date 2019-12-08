@@ -28,13 +28,13 @@ Yet one of the lesser-known joint options is called the tarantula joint, and it�
 
 First of all, remember that in most states, you can only achieve this kind of a joint if you roll it yourself. While some dispensaries do offer a pre-made kief joint, most don’t. There are simply too many testing requirements that go into being able to sell these items, and they can often be rather expensive.
 
-The basics of a tarantula joint are as follows: it’s a normal joint that includes flower, [kief](https://weedshome.com/kief-5-uses), and concentrates. The result is a powerful kief joint that leaves even experienced smokers wondering what the hell happened. If you’re looking for complete euphoric bliss, followed by the deepest sleep of your life, then a tarantula joint is for you.
+The basics of a tarantula joint are as follows: it’s a normal joint that includes flower, kief, and concentrates. The result is a powerful kief joint that leaves even experienced smokers wondering what the hell happened. If you’re looking for complete euphoric bliss, followed by the deepest sleep of your life, then a tarantula joint is for you.
 
 ![Selfmade Kief Joints](https://ucarecdn.com/9bc7024e-0f35-4257-ac2c-6d14aafed92c/)
 
 ## Rolling Your Own
 
-The idea behind a tarantula joint is easy to do at home, as long as you have decent rolling skills. Simply grab a [rolling paper](https://weedshome.com/kief-5-uses) and place your desired amount of flower inside like you normally would. Then, add some concentrate to the mix. Roll your joint tightly, but not overly so.
+The idea behind a tarantula joint is easy to do at home, as long as you have decent rolling skills. Simply grab a rolling paper and place your desired amount of flower inside like you normally would. Then, add some concentrate to the mix. Roll your joint tightly, but not overly so.
 
 Your next few steps are out of the ordinary, and this is where some people are critical of this type of joint. Get the outside of your joint sticky by rolling it in CO2 oil. You’ll want to leave the crutch dry but moisten the rest. Now for the fun part!
 
