@@ -99,7 +99,7 @@ class Form extends React.Component {
               <input
                 className="Form--RadioInput"
                 type="radio"
-                name="personal"
+                name="personal/business"
                 value="personal"
                 defaultChecked
               />
@@ -109,7 +109,7 @@ class Form extends React.Component {
               <input
                 className="Form--RadioInput"
                 type="radio"
-                name="business"
+                name="personal/business"
                 value="business"
               />
               <span>Business</span>
