@@ -21,13 +21,13 @@ If you're feeling rather adventurous and want to try your hand at making your ow
 
 ## First, Some Science
 
-Before we jump right in, it's important to know how to treat [raw bud](http://weedshome.com/get-high-eating-weed) when making infused products at home. You can't simply take a nug, crush it up, and mix it into some honey. Sorry, but it's not that simple. While we won't get too in-depth with the specifics, it's important to take two major factors into consideration.
+Before we jump right in, it's important to know how to treat raw bud when making infused products at home. You can't simply take a nug, crush it up, and mix it into some honey. Sorry, but it's not that simple. While we won't get too in-depth with the specifics, it's important to take two major factors into consideration.
 
 When making cannabis honey, you have to think about the end result you're looking for. Some strains of weed are skunky and would no doubt result in a honey that's less than tasty. Other strains are sweet and some are floral. Terpenes are the reason that weed has its special flavors. Depending on what you're going for, the strain you choose is crucial.
 
-Now for the science, as marijuana has to be "activated" in a sense when making edibles like [marijuana cookies](http://weedshome.com/marijuana-cookies-best-recipe) or [Cannabutter](http://weedshome.com/cannabutter-recipe) at home. Those who smoke flower naturally do this through the process of burning their weed, but when it comes to cooking, you have to go through this extra step first.
+Now for the science, as marijuana has to be "activated" in a sense when [making edibles like marijuana cookies](https://weedshome.com/marijuana-cookies-best-recipe/) or [Cannabutter at home](https://weedshome.com/marijuana-and-cannabis-butter-recipe/). Those who smoke flower naturally do this through the process of burning their weed, but when it comes to cooking, you have to go through this extra step first.
 
-Called decarboxylation ([THCA to THC](http://weedshome.com/thc-vs-thca-cannabinoid-profiling)), this process involves baking your nugs at 110°C for about 40 minutes. Spread your product on a cookie sheet in one layer and stir it up a few times throughout the process. Now that that's out of the way, it's time to make cannabis honey!
+Called [decarboxylation (THCA to THC)](https://weedshome.com/thc-vs-thca-cannabinoid-profiling/), this process involves baking your nugs at 110°C for about 40 minutes. Spread your product on a cookie sheet in one layer and stir it up a few times throughout the process. Now that that's out of the way, it's time to make cannabis honey!
 
 ![Cannabis Honey in a Jar](https://ucarecdn.com/0f7a7d70-39d8-4b92-bd9b-976236a2fb92/)
 
