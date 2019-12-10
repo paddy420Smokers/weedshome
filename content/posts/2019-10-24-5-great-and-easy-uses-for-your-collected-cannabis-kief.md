@@ -2,6 +2,7 @@
 template: SinglePost
 title: 5 Great And Easy Uses For Your Collected Cannabis Kief
 status: Published
+slug: uses-for-collected-cannabis-kief
 date: 2017-04-04T12:07:01.990Z
 featuredImage: 'https://ucarecdn.com/dd066adf-22e8-4dc1-9a9e-1b496185c35e/'
 excerpt: five easy uses and tricks for your collected cannabis kief and pollen
@@ -17,6 +18,10 @@ meta:
 ![Best Uses For your collected cannabis kief and pollen](https://ucarecdn.com/4d379847-d2d4-4fe8-b60a-70661d2c4c53/)
 
 Every stoner dreams of having more kief than they know what to do with. What is it, you ask? Kief refers to the resinous trichomes that separate from dry cannabis flower, or bud. These trichomes are like the hairs of the cannabis plant. They contain the terpenes and the cannabinoids that give the plant its vital flavor and psychoactive effects. These two ingredients give kief that extra kick when you smoke it, while providing a flavorful essence at the very same time. But the use of it is by no means restricted to smoking. For those of you out there looking for new and interesting ways to use your kief, look no further!
+
+```
+<div style= data-mantis-zone="captain-jack"></div>
+```
 
 ## Make Hash
 
