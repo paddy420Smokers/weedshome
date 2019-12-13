@@ -33,7 +33,7 @@ const SectionCellGroup = styled.div`
 
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoPoster, videoTitle, body }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, section1, video, videoPoster, videoTitle, body }) => (
   <main className="Home">
   <div id="fb-root"></div>
     <PageHeader
@@ -170,6 +170,7 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        section1
         video
         videoPoster
         videoTitle
