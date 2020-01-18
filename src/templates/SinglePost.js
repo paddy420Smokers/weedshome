@@ -64,6 +64,7 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
+<div data-mantis-zone="weedhack"></div>
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
