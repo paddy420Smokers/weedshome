@@ -96,7 +96,7 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-colorscheme="light" data-numposts="5"></div>
         </div>
 
 <div class="sidebar">
