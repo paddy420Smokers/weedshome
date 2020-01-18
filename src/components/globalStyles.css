@@ -284,8 +284,6 @@ blockquote {
 .H2Subtitle {
     margin: 0 0 0em;
     color: #fff;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 @media (max-width: 600px) {
