@@ -19,11 +19,9 @@ meta:
 
 Every stoner dreams of having more kief than they know what to do with. What is it, you ask? Kief refers to the resinous trichomes that separate from dry cannabis flower, or bud. These trichomes are like the hairs of the cannabis plant. They contain the terpenes and the cannabinoids that give the plant its vital flavor and psychoactive effects. These two ingredients give kief that extra kick when you smoke it, while providing a flavorful essence at the very same time. But the use of it is by no means restricted to smoking. For those of you out there looking for new and interesting ways to use your kief, look no further!
 
-`<script><div style= data-mantis-zone="testa"></div></script>`
-
-``
-
-``
+```
+<script><div style= data-mantis-zone="testa"></div></script>
+```
 
 ## Make Hash
 
