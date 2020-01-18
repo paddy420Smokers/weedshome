@@ -7,12 +7,15 @@ import { ChevronLeft } from 'react-feather'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import Popup from '../components/Popup'
+
 
 
 export const SinglePostTemplate = ({
   title,
   date,
   body,
+  section1,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -64,6 +67,7 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
+          <div data-mantis-zone="weedhack"></div>
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
@@ -108,7 +112,9 @@ export const SinglePostTemplate = ({
 <div class="white-box">
 <div class="sidebar-top">
 <div class="offer">Welcome to Weed's Home! Join our cannabis Newsletter today.</div>
-<a href="/contact/" class="button-sidebar">Join our Newsletter</a>
+<Popup>
+          <Content source={section1} />
+</Popup>
 <a href="/terms/" class="terms-link">Terms and Conditions Apply</a>
 <div class="icons3"><a class="icon3 icon-fb" href="https://www.facebook.com/WeedsHome/"></a><a class="icon3 icon-in" href="https://www.instagram.com/weedshome.wh/"></a><a class="icon3 icon-tw" href="https://mobile.twitter.com/home_weed"></a></div>
 </div>

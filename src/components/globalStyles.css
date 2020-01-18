@@ -134,9 +134,6 @@ blockquote {
   right: 0;
   bottom: 0;
 }
-.taCenter {
-  text-align: center;
-}
 .taLeft {
   text-align: left;
 }
@@ -192,6 +189,13 @@ blockquote {
   width: 90%;
   margin: 0 auto;
 }
+
+.container2 {
+  max-width: 1111px;
+  width: 80%;
+  margin: 0 auto;
+}
+
 .container.skinny {
   max-width: 888px;
 }
@@ -202,19 +206,30 @@ blockquote {
 /* Buttons */
 
 .Button {
-  background: var(--primary);
+  font-size: 20px;
+  -webkit-box-shadow: rgba(101, 41, 255, 0.15) 0px 10px 20px;
+  box-shadow: rgba(101, 41, 255, 0.15) 0px 10px 20px;
   color: white;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  font-size: 1.4rem;
-  display: inline-block;
-  padding: 1.25rem 3rem;
-  border: none;
-  transition: all 0.2s ease;
+  font-weight: 600;
   cursor: pointer;
-  border-radius: var(--borderRadius);
+  display: inline-block;
+  justify-self: center;
+  white-space: nowrap;
+  background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
+  border-radius: 30px;
+  border-width: medium;
+  border-width: initial;
+  border-style: none;
+  border-color: currentColor;
+  border-color: initial;
+  -o-border-image: none;
+  border-image: none;
+  -o-border-image: initial;
+  border-image: initial;
+  padding: 10px 60px;
+  outline: none;
+  -webkit-transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
+  transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.2) 0s;
 }
 .Button:hover,
 .Button:focus {
@@ -430,8 +445,8 @@ blockquote {
 }
 
 .icon-in {
-  background-image: url("https://i.imgur.com/2Y9rW1r.png");
-  background-color: hsl(220, 60%, 50%);
+  background-image: url("https://i.imgur.com/irKjnNn.png");
+  background-color: hsl(4, 61%, 50%);
 }
 
 .icon-tw {

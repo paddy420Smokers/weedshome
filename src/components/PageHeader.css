@@ -15,23 +15,34 @@
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
+  font-size: 32px;
+  line-height: 36px;
+  margin-top: 0;
+  margin-bottom: 30px !important;
+  margin-right: 30%;
 }
 
 @media (max-width: 600px) {
   .PageHeader--Title {
   font-size: 4.5rem;
+  margin-right: 0%;
   }
 }
 
 .PageHeader--Subtitle {
-    font-size: 24px;
-    font-weight: 400;
-    margin: 0px;
+  margin-bottom: 1em;
+  font-size: 20px;
+  line-height: 28px;
+  margin-top: 10px;
+  max-width: 80vw;
+  margin-right: 30%;
 }
 
 @media (max-width: 600px) {
   .PageHeader--Subtitle {
   font-size: 18px;
+  margin-right: 0%;
+  display: none;
   }
 }
 
@@ -57,7 +68,13 @@
 
 .PageHeader .container {
   animation: fadeIn 0.5s ease-out;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .PageHeader .container {
   text-align: center;
+  }
 }
 
 @media (max-width: 600px) {
@@ -73,4 +90,29 @@
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+.wrap {
+  position: relative;
+  top: -280px;
+  z-index: 2;
+}
+
+.d-flx {
+  display: flex;
+  width: 100%;
+  padding: 190px 0 40px;
+}
+
+.services-sec .box-item {
+  width: 30.33%;
+  margin-right: 4%;
+  background: linear-gradient(104.74deg, rgb(58, 152, 67) 0%, rgb(71, 230, 31) 100%);
+  box-shadow: 0px 5px 7px 0px rgba(115, 134, 160, 0.1);
+  padding: 52px 5% 25px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+  position: relative;
 }

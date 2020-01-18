@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from 'react'
 import { X } from 'react-feather'
+import FormNewsletter from '../components/FormNewsletter'
 
 import './Popup.css'
 
@@ -20,9 +21,8 @@ class Popup extends Component {
     return (
       <Fragment>
         <div className="taCenter">
-          <h3> Simple Popup Example</h3>
           <div class="Button" onClick={this.togglePopup.bind(this)}>
-            Click To Launch Popup
+            Join Newsletter
           </div>
         </div>
 
@@ -33,7 +33,12 @@ class Popup extends Component {
               onClick={this.togglePopup.bind(this)}
             ></div>
             <div className="Popup-Inner">
-              <X class="Popup-Close" onClick={this.togglePopup.bind(this)} />
+            <h2 className="Popup-headline">Weeds Home Newsletter</h2>
+            <p class="Popup-text">Stay up to date with the latest cannabis trends, events and  more.</p>
+            <div>
+          <FormNewsletter name="Simple Form Ajax" />
+        </div>
+       <X class="Popup-Close" onClick={this.togglePopup.bind(this)} />
               {children}
             </div>
           </div>

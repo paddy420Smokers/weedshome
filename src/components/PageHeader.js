@@ -4,11 +4,12 @@ import PropTypes from 'prop-types'
 import Image from './Image'
 import Content from './Content'
 import './PageHeader.css'
+import Popup from '../components/Popup'
 
 const PageHeader = ({
   title,
   subtitle,
-  button,
+  section1,
   backgroundImage,
   large,
   className = ''
@@ -30,8 +31,10 @@ const PageHeader = ({
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
-      <button href="#" className="PageHeader--Button">Join Newsletter</button>
-      <p>$0 per month, join free!</p>
+      <Popup>
+          <Content source={section1} />
+      </Popup>
+      <div class="view"><img src="/images/footer-logo.png" alt="illus" width="300"></img></div>
       </div>
       <svg width="100%" height="120" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path fill="#47e61f"><animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z;

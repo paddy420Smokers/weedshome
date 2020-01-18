@@ -1,10 +1,10 @@
 .Form {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
   max-width: 500px;
-  margin: 2.5rem 0;
+  margin: 0 auto;
 }
 
 .Form > * + * {
@@ -49,7 +49,6 @@
   box-sizing: border-box;
   display: block;
   margin: 0;
-  color: #fff;
   border: 1px solid #bababa;
   padding: 1.5rem 2rem;
   border-radius: var(--borderRadius);
@@ -59,6 +58,7 @@
   width: 100%;
   transition: 0.3s ease all;
   background: transparent;
+  color: #fff;
 }
 
 .Form--InputText:valid,

@@ -38,7 +38,7 @@ class PostSection extends React.Component {
           </div>
         )}
         {showLoadMore && visiblePosts.length < posts.length && (
-          <div className="taCenter">
+          <div className="taCenter2">
             <button className="button" onClick={this.increaseLimit}>
               {loadMoreTitle}
             </button>

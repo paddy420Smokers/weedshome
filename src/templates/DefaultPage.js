@@ -19,7 +19,7 @@ export const DefaultPageTemplate = ({
       backgroundImage={featuredImage}
     />
     <section className="section">
-      <div className="container">
+      <div className="container2">
         <Content source={body} />
       </div>
     </section>

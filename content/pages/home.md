@@ -1,9 +1,10 @@
 ---
 template: HomePage
 slug: ''
-title: Weed's Home
+title: Know the latest Cannabis trends first!
 featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
-subtitle: 'Home Is Where The Weed Is At'
+subtitle: 'Stay up to date with our weekly newsletter. Get the latest cannabis news and trends straight to your inbox for free. We take us the time to craft each week a unique newsletter for the Weeds Home community to follow.'
+section1: This is a test popup test
 meta:
   description: Home of Weed's Home.
   title: Home

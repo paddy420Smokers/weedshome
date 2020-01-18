@@ -11,6 +11,7 @@ import Cell from '../components/Cell';
 import styled from 'styled-components'
 
 
+
 const SectionCaption = styled.p`
   font-weight: 600;
   font-size: 18px;
