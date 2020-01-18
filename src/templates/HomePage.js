@@ -36,6 +36,7 @@ const SectionCellGroup = styled.div`
 export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoPoster, videoTitle, body }) => (
   <main className="Home">
   <div id="fb-root"></div>
+  <div data-mantis-zone="weedhack"></div>
     <PageHeader
       large
       title={title}
