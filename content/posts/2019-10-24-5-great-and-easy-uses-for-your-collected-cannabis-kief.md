@@ -2,6 +2,7 @@
 template: SinglePost
 title: 5 Great And Easy Uses For Your Collected Cannabis Kief
 status: Published
+slug: uses-for-collected-cannabis-kief
 date: 2017-04-04T12:07:01.990Z
 featuredImage: 'https://ucarecdn.com/dd066adf-22e8-4dc1-9a9e-1b496185c35e/'
 excerpt: five easy uses and tricks for your collected cannabis kief and pollen
@@ -18,9 +19,13 @@ meta:
 
 Every stoner dreams of having more kief than they know what to do with. What is it, you ask? Kief refers to the resinous trichomes that separate from dry cannabis flower, or bud. These trichomes are like the hairs of the cannabis plant. They contain the terpenes and the cannabinoids that give the plant its vital flavor and psychoactive effects. These two ingredients give kief that extra kick when you smoke it, while providing a flavorful essence at the very same time. But the use of it is by no means restricted to smoking. For those of you out there looking for new and interesting ways to use your kief, look no further!
 
+```
+<script><div style= data-mantis-zone="testa"></div></script>
+```
+
 ## Make Hash
 
-Kief is the primary ingredient used in the production of hash. Now we’ve all heard of hash, but not many people actually realize just what hash is. Hash is little more than kief that has been heated and pressurized, causing the resin glands to rupture and alter the taste, color, and effects of the product. It is the rupturing of these resin glands that gives hash its darker color and more intense aroma. Hash is immensely popular in Europe and, as the cannabis industry takes off in the U.S., this unique cannabis product is starting to catch on here as well. For those of you interested in [producing your own hash](https://www.royalqueenseeds.com/blog-hoe-maakt-u-hasj-n82) there are plenty of helpful guides all across the Internet. It’s a relatively simple process that I think every stoner should experience at least once. Get out there and try it for yourself!
+Kief is the primary ingredient used in the production of hash. Now we’ve all heard of hash, but not many people actually realize just what hash is. Hash is little more than kief that has been heated and pressurized, causing the resin glands to rupture and alter the taste, color, and effects of the product. It is the rupturing of these resin glands that gives hash its darker color and more intense aroma. Hash is immensely popular in Europe and, as the cannabis industry takes off in the U.S., this unique cannabis product is starting to catch on here as well. For those of you interested in producing your own hash there are plenty of helpful guides all across the Internet. It’s a relatively simple process that I think every stoner should experience at least once. Get out there and try it for yourself!
 
 ![Hash made of kief pollen](https://ucarecdn.com/70a7117b-7052-495c-b19c-672723d623de/)
 

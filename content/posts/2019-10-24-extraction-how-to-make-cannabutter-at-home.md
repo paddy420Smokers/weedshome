@@ -2,6 +2,7 @@
 template: SinglePost
 title: 'Extraction: How To Make Cannabutter At Home'
 status: Published
+slug: marijuana-and-cannabis-butter-recipe
 date: 2017-02-06T08:49:01.450Z
 featuredImage: 'https://ucarecdn.com/ac125618-d8ce-4edf-b607-1d706a1533cf/'
 excerpt: How to make Cannabis Butter also known as Cannabutter simple at home

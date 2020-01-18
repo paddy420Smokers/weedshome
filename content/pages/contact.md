@@ -19,6 +19,11 @@ meta:
 <h3>Get In Touch</h3>
 
 Contact us for general questions about cannabis, advertisement, sponsoring or simply to say hello. We usually answer within 24 hours.
+<<<<<<< HEAD
+=======
+
+Please, fill out the enquiry field so that we can help you quicker!
+>>>>>>> d59f12a3982b74ee24634ca6f4370d582e8f2a4f
 
 Please, fill out the enquiry field so that we can help you quicker!
 
@@ -33,8 +38,14 @@ Please, fill out the enquiry field so that we can help you quicker!
    <li>Legal</li>
 </ul>
 
+<<<<<<< HEAD
 Fill out the form or send us an E-Mail to get in touch with us.
 
 © Weed's Home - Home Is Where The Weed Is At!
 
+=======
+Fill out the form or send us an E-Mail to get in touch with us. 
+
+© Weed's Home - Home Is Where The Weed Is At!
+>>>>>>> d59f12a3982b74ee24634ca6f4370d582e8f2a4f
 

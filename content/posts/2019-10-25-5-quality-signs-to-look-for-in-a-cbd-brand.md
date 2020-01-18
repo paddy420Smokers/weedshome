@@ -2,6 +2,7 @@
 template: SinglePost
 title: 5 Quality Signs To Look For In A CBD Brand
 status: Published
+slug: cbd-quality-signs-to-look
 date: 2019-10-24T14:55:10.005Z
 featuredImage: 'https://ucarecdn.com/ec22ae75-ff1d-435c-8cb2-ad43b8638959/'
 excerpt: CBD Quality Signs

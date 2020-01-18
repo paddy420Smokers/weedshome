@@ -67,7 +67,11 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
+<<<<<<< HEAD
           <div data-mantis-zone="weedhack"></div>
+=======
+<div data-mantis-zone="weedhack"></div>
+>>>>>>> d59f12a3982b74ee24634ca6f4370d582e8f2a4f
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
@@ -76,7 +80,7 @@ export const SinglePostTemplate = ({
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
-          </div>
+          </div>    
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
@@ -99,6 +103,7 @@ export const SinglePostTemplate = ({
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
+<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-colorscheme="light" data-numposts="5"></div>
         </div>
 
 <div class="sidebar">
