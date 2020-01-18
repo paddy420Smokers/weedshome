@@ -283,7 +283,7 @@ blockquote {
 
 .H2Subtitle {
     margin: 0 0 0em;
-    background: -webkit-linear-gradient(104.74deg, #3a9843, #47e61f);
+    color: #fff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
