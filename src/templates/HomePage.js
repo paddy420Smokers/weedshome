@@ -49,8 +49,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 
   <a href="/post-categories/news/">
     <div class="cardcat">
+      <img alt="cannabis news icon" src="https://i.imgur.com/WqhiKOF.jpg"></img>
          <h3 class="tricks">News</h3>
-         <img alt="cannabis news icon" src="https://img.icons8.com/cotton/64/000000/worldwide-location--v1.png"></img>
              <p class="cardcat-text">Breaking cannabis news and current headlines</p>
              
     </div>
@@ -58,8 +58,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 
 <a href="/post-categories/recreational/">
     <div class="cardcat">
+      <img alt="recreational icon" src="https://i.imgur.com/TuuTUsi.jpg"></img>
          <h3 class="tricks">Recreational</h3>
-         <img alt="recreational icon" src="https://img.icons8.com/cotton/64/000000/literature-1.png"></img>
   <i class="far fa-address-card"></i>
              <p class="cardcat-text">Discover new stoner activities today</p>
     </div>
@@ -67,40 +67,40 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, video, videoP
 
 <a href="/post-categories/growing/">
      <div class="cardcat">
+      <img alt="growing cannabis icon" src="https://i.imgur.com/4q9UfLs.jpg"></img>
          <h3 class="tricks">Growing</h3>
-         <img alt="growing cannabis icon" src="https://img.icons8.com/cotton/64/000000/hand-planting--v1.png"></img>
              <p class="cardcat-text">Everything related to growing cannabis</p>
     </div>
 </a>
 
 <a href="/post-categories/trending/">
      <div class="cardcat">
+      <img alt="trending icon" src="https://i.imgur.com/LI8Hkre.jpg"></img>
        <h3 class="tricks">Trending</h3>
-       <img alt="trending icon" src="https://img.icons8.com/cotton/64/000000/earth-planet--v1.png"></img>
              <p class="cardcat-text">Trends, new technologies and expert insights</p>
     </div>
 </a>
 
 <a href="/post-categories/cbd/">
    <div class="cardcat">
+    <img alt="cbd icon" src="https://i.imgur.com/L6W0QZm.jpg"></img>
        <h3 class="tricks">CBD</h3>
-       <img alt="cbd icon" src="https://img.icons8.com/cotton/64/000000/test-tube-1.png"></img>
              <p class="cardcat-text">Discover more about Cannabidiol here</p>
     </div>
 </a>
 
 <a href="/post-categories/health/">
    <div class="cardcat">
+    <img alt="cannabis and health icon" src="https://ucarecdn.com/fc20761a-9a07-4170-93f2-11ee52953b08/-/progressive/yes/-/format/auto/-/resize/1000x/"></img>
        <h3 class="tricks">Health</h3>
-       <img alt="cannabis and health icon" src="https://img.icons8.com/cotton/64/000000/yoga.png"></img>       
              <p class="cardcat-text">Our cannabis related health articles</p>
     </div>
 </a>
 
 <a href="/post-categories/products/">
    <div class="cardcat">
+    <img alt="stoner product reviews icon" src="https://i.imgur.com/debnRRN.jpg"></img>
        <h3 class="tricks">Products</h3>
-       <img alt="stoner product reviews icon" src="https://img.icons8.com/cotton/64/000000/price-tag--v1.png"></img>
              <p class="cardcat-text">Buyer guides for the best stoner products</p>
     </div>
 </a>

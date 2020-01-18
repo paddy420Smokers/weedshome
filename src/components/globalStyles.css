@@ -340,8 +340,12 @@ blockquote {
 }
 
 .cardcat img {
-  padding-top: 70px;
-  margin: 0 auto;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    width: 360px;
+    height: 265px;
+    opacity: .3;
 } 
   
 .cardcat-text {
