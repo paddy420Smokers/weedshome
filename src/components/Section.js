@@ -60,7 +60,7 @@ const WaveTop = styled.div`
     top: -7px;
     transform: rotate(180deg);
     @media (max-width: 600px) {
-    transform: rotate(0deg);
+    transform: rotate(180deg);
     }
 `
 
