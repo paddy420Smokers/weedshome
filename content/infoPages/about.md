@@ -3,17 +3,21 @@ template: DefaultPage
 slug: information-about-us
 title: About Us
 featuredImage: 'https://i.imgur.com/EqRvybv.jpg'
-subtitle: Who We Are
 meta:
   description: Advertising Weed's Home
   title: Advertisement
 ---
+Weed's Home is an international cannabis network, founded in 2013 and an official company since 2016. Over the years we have built up a network with several million fans worldwide. 
 
-<h2>About Weeds Home</h2>
+Since the beginning of 2019, Weed's Home has been an official part of Highlife Media Consulting LLC, expanding the network to more than 20 million fans. 
 
-Due to some mistakes, we want to build the future business strategy on ethical and moral foundations to provide you with a unique experience.
+Now in 2020 we are a cannabis lifestyle brand with the following mission:
 
-In cooperation with Highlife Media Consulting LLC
+## Our Mission
+
+* Neutral clarification and reporting (apolitical)
+* Cannabis is a lifestyle we communicate
+* Making cannabis socially acceptable
 
 <h2>Our Awesome Team</h2>
 
@@ -139,8 +143,6 @@ font-size: 16px;
   </div>
   </div>
 
-<h2>Partners</h2>
+<h2>The Company</h2>
 
-<div class="imgs">
-<img src="/images/logo_hlm2.png" class="imgss" alt="IHL" style="width: 50%;">
-</div>
+![](https://ucarecdn.com/812dac48-8c59-45a0-bb85-6c9932ee16c4/ "Highlife Media Consulting LLC.")
