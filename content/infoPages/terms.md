@@ -9,7 +9,7 @@ meta:
 ---
 <h2><strong>Terms & Conditions</strong></h2>
 
-<p>Welcome to Weed's Home!</p>
+<p>Welcome to Weed's Home,</p>
 
 <p>These terms and conditions outline the rules and regulations for the use of Weed's Home's Website, located at weedshome.com.</p>
 
