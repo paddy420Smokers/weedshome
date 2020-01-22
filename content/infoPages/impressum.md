@@ -21,8 +21,7 @@ VAT indentification number in accorance with Section 27 a of the German VAT act<
 Job title: Manager<br>Professional chamber: Industrie- & Handelskammer<br>
 <h2>Image Sources</h2>
 https://www.shutterstock.com<br><br>
-<h2>Disclaimer</h2>
-**Accountability for content**<br>
+<h2>Disclaimer</h2>**Accountability for content**<br>
 The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents'
 accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for 
 our own content on these web pages. In this matter, please note that we are not obliged to monitor 
