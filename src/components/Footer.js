@@ -24,7 +24,7 @@ export default () => (
 <div class="footer--title" color="#94A4BA"><p>Help</p></div>
 <a href="/impressum/">Impressum</a>
 <a href="/advertise/">Advertise</a>
-<a href="/terms/">Terms</a>
+<a href="/terms-of-use/">Terms</a>
 <a href="/privacy/">Privacy</a>
 </div>
 <div class="footer--linkgroup">
