@@ -17,6 +17,7 @@
   transition: transform 0.2s ease-out;
   transform: translateX(0);
   height: 1.2em;
+  background-color: #0000ff00;
 }
 
 .SinglePost--BackButton:hover svg,
