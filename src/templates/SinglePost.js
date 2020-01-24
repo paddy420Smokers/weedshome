@@ -31,7 +31,7 @@ export const SinglePostTemplate = ({
       <div className="container skinny">
       <div class="demobox2">
       <div class="demobox3">
-
+      <div class="addthis_inline_share_toolbox"></div>
       <Link className="SinglePost--BackButton" to="/blog/">
           <ChevronLeft /> BACK
       </Link>
@@ -71,7 +71,6 @@ export const SinglePostTemplate = ({
               {title}
             </h1>
           )}
-           <div class="addthis_inline_share_toolbox"></div>
           <div className="SinglePost--InnerContent">
             <Content source={body} />
           </div>
