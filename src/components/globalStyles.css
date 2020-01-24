@@ -623,3 +623,7 @@ svg {
 main.Home {
   background-color: #47e620;
 }
+
+.addthis_inline_share_toolbox {
+    float: right;
+}
