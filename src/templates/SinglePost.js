@@ -93,6 +93,7 @@ export const SinglePostTemplate = ({
               </Link>
             )}
           </div>
+<div id="recommended"></div>
         </div>
            <div class="demobox">
            <h2 class="h2comments" >Join the Discussion</h2>
