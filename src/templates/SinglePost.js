@@ -66,6 +66,9 @@ export const SinglePostTemplate = ({
             )}
           </div>
           <div data-mantis-zone="weedhack"></div>
+          <script>
+          window.mantis.push(['display', 'refresh', 'weedhack']);
+          </script>
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
