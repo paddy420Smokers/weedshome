@@ -39,6 +39,9 @@ Do not use wax paper. Spread the cannabis in a thin layer on the parchment. Mini
 
 The temperature should not reach above 240° Try between 190° and 200°. Heating the cannabis too hot will decrease potency. It is easy to let it get away from you. Be diligent and watch closely. You won't know the results until the finished product. It is never fun to waste bud.
 
+<div data-mantis-zone="testa"></div>
+<script>window.mantis.push(['display', 'refresh', 'testa']);</script>
+
 ## The Cannabutter Recipe
 
 ### Ingredients
