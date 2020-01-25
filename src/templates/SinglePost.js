@@ -119,7 +119,7 @@ export const SinglePostTemplate = ({
 <Popup>
           <Content source={section1} />
 </Popup>
-<a href="/terms/" class="terms-link">Terms and Conditions Apply</a>
+<a href="/terms-of-use/" class="terms-link">Terms and Conditions Apply</a>
 </div>
 </div>
 </div>
