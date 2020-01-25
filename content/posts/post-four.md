@@ -24,6 +24,9 @@ Cannabis syrup can be mixed with just about any type of drink. It can even be us
 
 If you haven’t yet tried THC lean, you don’t know what you’ve been missing. If smoking and vaping aren’t your thing, getting your THC from cannabis syrup could be a sensible alternative.
 
+<div data-mantis-zone="captain-jack"></div>
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+
 ## Is Cannabis Syrup The New Lean?
 
 Purple Drank is codeine-based, and since codeine is an opioid its addictive qualities are real and significant.
@@ -49,6 +52,10 @@ Flexibility is a major part of the appeal of THC syrup. You can mix it in a smoo
 In contrast to THC syrup, CBD syrup is non-psychoactive. Consequently, you wouldn’t choose it if you were looking to get high or lighten your mood.
 
 But the fast-acting nature of cannabis syrup makes the CBD version of Lean perfect for people with medical needs. When you need relief quickly, CBD syrup can provide it.
+
+<div data-mantis-zone="wh"></div>
+<script>window.mantis.push(['display', 'refresh', 'wh']);</script>
+
 
 ## How is It Made?
 
