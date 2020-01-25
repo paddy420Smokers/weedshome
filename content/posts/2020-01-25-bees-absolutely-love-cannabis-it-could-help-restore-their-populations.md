@@ -4,6 +4,7 @@ title: Bees Absolutely Love Cannabis & It Could Help Restore Their Populations
 status: Published
 slug: cannabis restore bees population
 date: 2020-01-25T10:43:50.517Z
+featuredImage: 'https://ucarecdn.com/3f384eb3-3d8d-416d-a843-97132ef6c279/'
 excerpt: Cannabis could help to restore the bee population
 categories:
   - category: News
