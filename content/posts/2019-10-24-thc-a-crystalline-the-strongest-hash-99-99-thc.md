@@ -23,6 +23,11 @@ During the last decade, the extraction of cannabis has greatly improved. Growers
 
 Hitherto, the extraction of concentrates with pure THC was just but a dream to players in the cannabis industry. This, however, seems not to be the case anymore as a company from Southern California, Guild Extracts, has managed to make this dream a reality, by creating a concentrate with 99.9% THC.
 
+
+<div data-mantis-zone="captain-jack"></div>
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+
+
 ## What Is THCA Crystalline?
 
 During the extraction process, THC crystalizes turning into crystal-like small “rocks.” The appearance of the product is very different from other marijuana concentrates available.
@@ -40,6 +45,9 @@ Thus, to get high THCA crystalline has to be vaped or dabbed.
 Like earlier explained, THCA is a compound from the same plant as THC only that the former is extracted while the plant is not yet dry. Interestingly, most people are used to the later because it is the most common. Further, people know that THC is derived once the plant is dry enough. One might wonder how THCA comes about and why it comes out almost 100% pure. Here is how.
 
 Cannabis is the primary source of THC known to man, but various other plants have generous deposits of the substance. These include Coneflower, Electric Daisy, Black Truffles and Black Pepper among others.
+
+<div data-mantis-zone="WH"></div>
+<script>window.mantis.push(['display', 'refresh', 'WH']);</script>
 
 ## THCA Process
 
