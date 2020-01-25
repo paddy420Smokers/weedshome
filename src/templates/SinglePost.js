@@ -77,7 +77,7 @@ export const SinglePostTemplate = ({
 
           <div id="recommended"></div>
 <script>
-window.mantis.push(['display', 'refresh', 'recommend']);
+window.mantis.push(['display', 'refresh', 'recommended']);
 </script>
 
           <div className="SinglePost--Pagination">
