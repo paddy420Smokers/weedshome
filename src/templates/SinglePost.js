@@ -79,7 +79,7 @@ export const SinglePostTemplate = ({
           </div>
 
           <div id="recommended"></div>
-<script>window.mantis.push(['display', 'recommended', 'testa']);</script>
+<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/recommend.min.js" async></script>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
