@@ -114,7 +114,7 @@ export const SinglePostTemplate = ({
 </div>
 <div class="white-box">
 <div class="sidebar-top">
-<img class="footer--img" alt="weeds home newsletter" src="https://i.imgur.com/8PWw1vV.png"></img>
+<img class="sidebar--img" alt="weeds home newsletter" src="https://i.imgur.com/8PWw1vV.png"></img>
 <div class="offer">Subscribe to our educational newsletter to receive the latest news and tips to your inbox!</div>
 <Popup>
           <Content source={section1} />
