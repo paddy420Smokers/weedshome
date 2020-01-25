@@ -24,7 +24,7 @@ Toast and bagels are especially good with this recipe. It tastes good on everyth
 If you decide to try this recipe, please know that it takes time. This is not an easy 20 minute process. Proper decarboxylation takes time, as well.
 
 <div data-mantis-zone="captain-jack"></div>
-<script>window.mantis.push(['display', 'refresh', 'testa']);</script>
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
 
 ## Handmade Cannabis Butter
 
