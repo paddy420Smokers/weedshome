@@ -108,13 +108,14 @@ export const SinglePostTemplate = ({
 <div class="sticky">
 <div class="sub-text">
 <div class="demoboxb">
-<div><h3 class="template-name">Weed's Home</h3>
-<h6 class="info-text">More Information</h6>
+<div><h3 class="template-name">Weed's Home Educational</h3>
+<h6 class="info-text">Our Newsletter</h6>
 </div></div>
 </div>
 <div class="white-box">
 <div class="sidebar-top">
-<div class="offer">Welcome to Weed's Home! Join our cannabis Newsletter today.</div>
+<img class="footer--img" alt="weeds home footer logo" src="https://i.imgur.com/8PWw1vV.png">
+<div class="offer">Subscribe to our educational newsletter to receive the latest news and tips to your inbox!</div>
 <Popup>
           <Content source={section1} />
 </Popup>
