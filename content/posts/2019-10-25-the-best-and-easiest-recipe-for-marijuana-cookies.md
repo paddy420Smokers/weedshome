@@ -22,6 +22,9 @@ Marijuana cookies, ganja brownies and cannabutter (cannabis butter) are some of 
 
 Also, unlike inhaling, the ingestion of marijuana leaves nothing to waste. Highs found via ingestion of Marijuana are way more powerful and durable than the ones via inhalation. However, if you haven’t tried any edibles and you are up for some new things. Today we bring you the best recipe for marijuana cookies, a simple and delicious way to set a party in the form of cookies. Let’s check it out.
 
+<div data-mantis-zone="captain-jack"></div>
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+
 ## What Do You Need To Make Marijuana Cookies?
 
 * 130 grams of Cannabutter
