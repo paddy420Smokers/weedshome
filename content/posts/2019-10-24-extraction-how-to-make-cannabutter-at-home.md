@@ -23,6 +23,9 @@ Toast and bagels are especially good with this recipe. It tastes good on everyth
 
 If you decide to try this recipe, please know that it takes time. This is not an easy 20 minute process. Proper decarboxylation takes time, as well.
 
+<div data-mantis-zone="captain-jack"></div>
+<script>window.mantis.push(['display', 'refresh', 'testa']);</script>
+
 ## Handmade Cannabis Butter
 
 1. An oven set to 220 F/105 C
