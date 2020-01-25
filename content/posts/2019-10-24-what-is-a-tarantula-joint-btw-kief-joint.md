@@ -24,6 +24,10 @@ However, today we have all kinds of ways to roll the ideal joint. [Joint rolling
 
 Yet one of the lesser-known joint options is called the tarantula joint, and it’s an intense way to get high. Let’s learn more about what this entails and what you can expect!
 
+<div data-mantis-zone="captain-jack"></div>
+
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+
 ## What Is A Tarantula Joint / Kief Joint ?
 
 First of all, remember that in most states, you can only achieve this kind of a joint if you roll it yourself. While some dispensaries do offer a pre-made kief joint, most don’t. There are simply too many testing requirements that go into being able to sell these items, and they can often be rather expensive.
@@ -39,6 +43,10 @@ The idea behind a tarantula joint is easy to do at home, as long as you have dec
 Your next few steps are out of the ordinary, and this is where some people are critical of this type of joint. Get the outside of your joint sticky by rolling it in CO2 oil. You’ll want to leave the crutch dry but moisten the rest. Now for the fun part!
 
 Roll the joint in kief and make sure it completely coats the outside of the paper. Grab a lighter and you’re ready to blast off.
+
+<div data-mantis-zone="WH"></div>
+
+<script>window.mantis.push(['display', 'refresh', 'WH']);</script>
 
 ## Tarantula Joints – Are They Worth It?
 
