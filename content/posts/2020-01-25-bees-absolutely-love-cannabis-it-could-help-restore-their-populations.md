@@ -9,7 +9,11 @@ excerpt: Cannabis could help to restore the bee population
 categories:
   - category: News
 meta:
+  description: >-
+    Bees are major fans of hemp and a recent study has found that the taller the
+    hemp plants are the larger the number of bees that will flock to it.
   noindex: true
+  title: Bees Absolutely Love Cannabis & It Could Help Restore Their Populations
 ---
 ![Cannabis Bees](https://ucarecdn.com/255bd932-e90e-4e57-99cc-f0f8315b53c8/)
 
