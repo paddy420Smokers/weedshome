@@ -46,8 +46,8 @@ Like earlier explained, THCA is a compound from the same plant as THC only that 
 
 Cannabis is the primary source of THC known to man, but various other plants have generous deposits of the substance. These include Coneflower, Electric Daisy, Black Truffles and Black Pepper among others.
 
-<div data-mantis-zone="WH"></div>
-<script>window.mantis.push(['display', 'refresh', 'WH']);</script>
+<div data-mantis-zone="wh"></div>
+<script>window.mantis.push(['display', 'refresh', 'wh']);</script>
 
 ## THCA Process
 
