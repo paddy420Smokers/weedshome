@@ -58,6 +58,7 @@
   text-align: center;
   line-height: 1.2;
   font-size: 2em;
+  margin: .4em 0 -0.8em;
 }
 
 @media (max-width: 600px) {
