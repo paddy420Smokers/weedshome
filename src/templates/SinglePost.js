@@ -115,7 +115,6 @@ export const SinglePostTemplate = ({
           <Content source={section1} />
 </Popup>
 <a href="/terms/" class="terms-link">Terms and Conditions Apply</a>
-<div class="icons3"><a class="icon3 icon-fb" href="https://www.facebook.com/WeedsHome/"></a><a class="icon3 icon-in" href="https://www.instagram.com/weedshome.wh/"></a><a class="icon3 icon-tw" href="https://mobile.twitter.com/home_weed"></a></div>
 </div>
 </div>
 </div>
