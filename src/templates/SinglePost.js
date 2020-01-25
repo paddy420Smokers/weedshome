@@ -76,9 +76,6 @@ export const SinglePostTemplate = ({
           </div>
 
           <div id="recommended"></div>
-<script>
-window.mantis.push(['display', 'refresh', 'recommended']);
-</script>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
