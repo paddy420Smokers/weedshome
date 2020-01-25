@@ -24,8 +24,8 @@ During the last decade, the extraction of cannabis has greatly improved. Growers
 Hitherto, the extraction of concentrates with pure THC was just but a dream to players in the cannabis industry. This, however, seems not to be the case anymore as a company from Southern California, Guild Extracts, has managed to make this dream a reality, by creating a concentrate with 99.9% THC.
 
 
-<div data-mantis-zone="captain-jack"></div>
-<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+<div data-mantis-zone="weedhack"></div>
+<script>window.mantis.push(['display', 'refresh', 'weedhack']);</script>
 
 
 ## What Is THCA Crystalline?
