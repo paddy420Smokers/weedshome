@@ -2,6 +2,7 @@
 template: SinglePost
 title: 'Smoking Weed Resin: Health Concerns'
 status: Published
+slug: smoking-weed-resin-health
 date: 2018-02-05T15:09:02.533Z
 featuredImage: 'https://ucarecdn.com/501bfc9f-0abc-4372-b462-d971cf8aea28/'
 excerpt: 'Weed Resin '
@@ -26,6 +27,10 @@ You May Interested In:
 We describe it as leftovers, and that's basically what it is. As you smoke weed, the flower has its own defense mechanism. Remember, weed is a plant and it would probably rather not be burned alive. So when a nug is broken up and you heat it, it produces this dark substance called resin. It cakes into the inside of whatever you use to smoke with.
 
 Weed resin certainly doesn't look attractive, and that's kind of the point. It's made up of tar, ash, and carbon, and most people have a fair amount of it hanging around inside of their pipe. It does have THC left in it, however not as much as a fresh nug of flower contains.
+
+<div data-mantis-zone="captain-jack"></div>
+<script>window.mantis.push(['display', 'refresh', 'captain-jack']);</script>
+
 
 ## Can You Smoke It?
 
