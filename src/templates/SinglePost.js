@@ -65,10 +65,6 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
-          <div data-mantis-zone="weedhack"></div>
-          <script>
-          window.mantis.push(['display', 'refresh', 'weedhack']);
-          </script>
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
@@ -79,7 +75,6 @@ export const SinglePostTemplate = ({
           </div>
 
           <div id="recommended"></div>
-<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/recommend.min.js" async></script>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
