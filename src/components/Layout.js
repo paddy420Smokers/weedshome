@@ -59,6 +59,14 @@ export default ({ children, meta, title }) => {
               <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
               {/* Add font link tags here */}
+              <script type="text/javascript">
+	var mantis = mantis || [];
+	mantis.push(['display', 'load', {
+		property: '56b786343e9f56d344172a7e'
+	}]);
+</script>
+
+<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/mantodea.min.js" async></script>
             </Helmet>
 
             <Meta
