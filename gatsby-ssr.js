@@ -1,3 +1,5 @@
+
+import React from "react";
 const React = require("react")
 exports.onRenderBody = ({
   setPostBodyComponents,
