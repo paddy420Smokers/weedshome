@@ -1,14 +1,10 @@
-
 import React from "react";
-const React = require("react")
-exports.onRenderBody = ({
-  setPostBodyComponents,
-}) => {
-  setPostBodyComponents([
-    <script
-      key="mantis"
-      type="text/javascript"
-      src="https://assets.mantisadnetwork.com/mantodea.min.js"
-    />,
-  ])
+export function onRenderBody(
+  { setHeadComponents }) {
+setHeadComponents([
+     <script
+        type="text/javascript"
+        src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e2927b3c07a82ea"
+      />,
+]);
 }
