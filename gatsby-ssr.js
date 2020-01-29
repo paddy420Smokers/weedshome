@@ -2,7 +2,7 @@ const React = require("react")
 exports.onRenderBody = ({
   setPreBodyComponents,
 }) => {
-  setHeadComponents([
+  setPreBodyComponents([
     <script
       key="1"
       type="text/javascript"
