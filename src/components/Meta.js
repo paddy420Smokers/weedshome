@@ -59,14 +59,7 @@ export default class Meta extends Component {
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
         <meta name="twitter:card" content={absoluteImageUrl} />
-<script type="text/javascript">
-	var mantis = mantis || [];
-	mantis.push(['display', 'load', {
-		property: '56b786343e9f56d344172a7e'
-	}]);
-</script>
 
-<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/mantodea.min.js" async></script>
         {googleTrackingId && (
           <script
             async
